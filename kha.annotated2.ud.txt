@@ -1,0 +1,271 @@
+"<U>" 
+	"U" art m sg @det #1->2
+"<Blei>" 
+	"blei" n m @nsubj #2->5
+"<u>" 
+	"u" prn pers p3 sg m @aux #3->2
+"<la>" 
+	"la" past @aux #4->5
+"<ong>" 
+	"ong" vblex tv @root #5->0
+"<ruh>" 
+	"ruh" adv @advmod #6->5
+"<,>" 
+	"," cm @punct #7->5
+"<To>" 
+	"to" imp @aux #8->9
+"<long>" 
+	"long" vbser @conj #9->5
+"<ba>" 
+	"ba" conj @det #10->12
+"<kin>" 
+	"kin" phr @aux #11->12
+"<ialang>" 
+	"ialang" vblex iv @conj #12->5
+"<sha>" 
+	"sha" pr @case #13->16
+"<kawei>" 
+	"kawei" adj @amod #14->16
+"<ka>" 
+	"ka" art f sg @det #15->16
+"<jaka>" 
+	"jaka" n f @obl #16->12
+"<kita>" 
+	"kita" GD pl dem dist osfar @det #17->19
+"<ki>" 
+	"ki" art GD pl @det #18->19
+"<um>" 
+	"um" n f @nsubj #19->12
+"<kiba>" 
+	"kiba" prn rel pl @det #20->23
+"<hapoh>" 
+	"hapoh" pr @case #21->23
+"<ka>" 
+	"ka" art f sg @det #22->23
+"<bneng>" 
+	"bneng" n f @obl #23->12
+"<,>" 
+	"," cm @punct #24->12
+"<bad>" 
+	"bad" coocnj @cc #25->27
+"<to>" 
+	"to" imp @aux #26->27
+"<ai>" 
+	"ai" vblex tv @conj #27->5
+"<kan>" 
+	"kan" phr @aux #28->29
+"<paw>" 
+	"paw" vblex iv @conj #29->5
+"<ka>" 
+	"ka" art f sg @det #30->31
+"<ryngkew>" 
+	"ryngkew" n f @nsubj #31->29
+"<:>" 
+	":" sent @punct #32->29
+"<te>" 
+	"te" adv @obl #33->36
+"<ka>" 
+	"ka" prn pers p3 sg f @nsubj #34->36
+"<la>" 
+	"la" past @aux #35->36
+"<long>" 
+	"long" vbser @conj #36->5
+"<kumta>" 
+	"kumta" adv @advcl #37->38
+"<keiñ>" 
+	"keiñ" vblex iv @conj #38->5
+"<.>" 
+	"." sent @punct #39->36
+
+"<Te>" 
+	"te" adv @obl #1->11
+"<ia>" 
+	"ia" dirObj @case #2->5
+"<kata>" 
+	"kata" f sg dem dist osfar @det #3->5
+"<ka>" 
+	"ka" art f sg @det #4->5
+"<ryngkew>" 
+	"ryngkew" n f @obj #5->11
+"<,>" 
+	"," cm @punct #6->11
+"<U>" 
+	"u" art m sg @det #7->8
+"<Blei>" 
+	"blei" n m @nsubj #8->11
+"<u>" 
+	"u" prn pers p3 sg m @aux #9->8
+"<la>" 
+	"la" past @aux #10->11
+"<khot>" 
+	"khot" vblex tv @root #11->0
+"<Ka>" 
+	"ka" art f sg @det #12->13
+"<Khyndew>" 
+	"khyndew" n f @obj #13->11
+"<,>" 
+	"," cm @punct #14->11
+"<bad>" 
+	"bad" coocnj @cc #15->19
+"<ia>" 
+	"ia" dirObj @case #16->18
+"<kata>" 
+	"kata" f sg dem dist osfar @det #17->18
+"<ka>" 
+	"ka" prn pers p3 sg f @nsubj #18->19
+"<jingialang>" 
+	"ialang" vblex iv abs @conj #19->11
+"<ki>" 
+	"ki" art GD pl @det #20->21
+"<um>" 
+	"um" n f @obj #21->19
+"<u>" 
+	"u" prn pers p3 sg m @aux #22->21
+"<la>" 
+	"la" past @aux #23->24
+"<khot>" 
+	"khot" vblex tv @conj #24->11
+"<Ki>" 
+	"ki" art GD pl @det #25->26
+"<Duriaw>" 
+	"duriaw" n f @obj #26->24
+"<;>" 
+	";" sent @punct #27->24
+"<bad>" 
+	"bad" coocnj @cc #28->33
+"<U>" 
+	"u" art m sg @det #29->30
+"<Blei>" 
+	"blei" n m @nsubj #30->33
+"<u>" 
+	"u" prn pers p3 sg m @aux #31->30
+"<la>" 
+	"la" past @aux #32->33
+"<iohi>" 
+	"iohi" vblex tv @conj #33->11
+"<ba>" 
+	"ba" conj @det #34->38
+"<ka>" 
+	"ka" prn pers p3 sg f @aux #35->38
+"<la>" 
+	"la" past @aux #36->37
+"<long>" 
+	"long" vbser @conj #37->11
+"<kaba bha>"
+	"bha" adv nmz @obj #38->37
+"<.>" 
+	"." sent @punct #39->37
+
+"<U>" 
+	"u" art m sg @det #1->2
+"<Blei>" 
+	"blei" n m @nsubj #2->5
+"<u>" 
+	"u" prn pers p3 sg m @aux #3->2
+"<la>" 
+	"la" past @aux #4->5
+"<ong>" 
+	"ong" vblex tv @root #5->0
+"<ruh>" 
+	"ruh" adv @advmod #6->5
+"<,>" 
+	"," cm @punct #7->5
+"<To>" 
+	"to" imp @aux #8->9
+"<long>" 
+	"long" vbser @conj #9->5
+"<ba>" 
+	"ba" conj @det #10->9
+"<ka>" 
+	"ka" art f sg @det #11->12
+"<khyndew>" 
+	"khyndew" n f @nsubj #12->14
+"<kan>" 
+	"kan" phr @aux #13->14
+"<pynmih>" 
+	"mih" vblex tv caus @conj #14->5
+"<speh>" 
+	"speh" n m @obj #15->14
+"<,>" 
+	"," cm @punct #16->14
+"<ba>" 
+	"ba" conj @det #17->9
+"<ki>" 
+	"ki" art GD pl @det #18->19
+"<jhur>" 
+	"jhur" n m @nsubj #19->21
+"<kin>" 
+	"kin" phr @aux #20->21
+"<pynsei>" 
+	"sei" vblex tv caus @conj #21->5
+"<symbai>" 
+	"symbai" n m @obj #22->21
+"<,>" 
+	"," cm @punct #23->21
+"<bad>" 
+	"bad" coocnj @cc #24->28
+"<ba>" 
+	"ba" conj @det #25->28
+"<ki>" 
+	"ki" art GD pl @det #26->27
+"<diengsch>" 
+	"diengsch" n GD @nsubj #27->28
+"<kin>" 
+	"kin" phr @conj #28->5
+"<seisoh>" 
+	"seisoh" adj @amod #29->28
+"<ha>" 
+	"ha" pr @case #30->33
+"<la>" 
+	"la" prn refl poss @nmod #31->27
+"<ka>" 
+	"ka" art f sg @det #32->33
+"<jaid>" 
+	"jaid" n f @obj #33->28
+"<ka>" 
+	"ka" art f sg @det #34->35
+"<jaid>" 
+	"jaid" n f @obj #35->28
+"<,>" 
+	"," cm @punct #36->28
+"<kiba>" 
+	"kiba" prn rel pl @det #37->27
+"<don>" 
+	"don" vblex iv @conj #38->5
+"<la>" 
+	"la" prn refl poss @nmod #39->27
+"<u>" 
+	"u" art m sg @det #40->41
+"<symbai>" 
+	"symbai" n m @obj #41->38
+"<hapoh>" 
+	"hapoh" pr @case #42->44
+"<jong>" 
+	"jong" pr @case #43->44
+"<ki>" 
+	"ki" prn pers p3 pl @obl #44->38
+"<,>" 
+	"," cm @punct #45->38
+"<halor>" 
+	"halor" pr @case #46->48
+"<ka>" 
+	"ka" art f sg @det #47->48
+"<khyndew>" 
+	"khyndew" n f @obl #48->38
+"<.>" 
+	"." sent @punct #49->38
+
+"<Te>" 
+	"te" adv @obl #1->4
+"<ka>" 
+	"ka" prn pers p3 sg f @aux #2->4
+"<la>" 
+	"la" past @aux #3->4
+"<long>" 
+	"long" vbser @root #4->0
+"<kumta>" 
+	"kumta" adv @advmod #5->6
+"<keiñ>" 
+	"keiñ" vblex iv @aux #6->4
+"<..>" 
+	".." sent @punct #7->4

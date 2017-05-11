@@ -1,0 +1,188 @@
+#cat kha.corpus.basic.txt | apertium -d . kha-morph | cg-conv -a | vislcg3 -g apertium-kha.kha.rlx
+#<jwashin1> btw, if this fails for whatever reason, just replace "apertium -d . kha-morph" with "lt-proc kha.automorf.bin"
+
+
+# Firstly, we need to define what tags should be considered sentence delimiters. For this example, only full stop is set as delimiter.
+DELIMITERS = "<.>" ;
+
+# We can define sets for common tag clusters
+LIST Case = (n s) (n p) ; # A set that matches either a Noun Singular or a Noun Plural
+LIST V = vblex ;
+LIST Vbser = vbser ;
+LIST NorAdj = (n) (adj) ;
+LIST NegInd = negInd ;
+LIST N = n ;
+LIST Adj = adj ;
+LIST Dem = dem ;
+LIST Neg = neg ;
+LIST Conj = conj ;
+LIST Prn = prn ;
+LIST Cont = cont ;
+LIST Prep = pr ;
+LIST DirObj = dirObj ;
+LIST Pers = pers ;
+LIST Art = art ;
+LIST Past = past ;
+LIST Tv = tv ;
+LIST Iv = iv ;
+LIST Adv = adv ;
+LIST Imp = imp ;
+LIST Sent = (sent) ;
+LIST Caus = (caus) ;
+LIST ArtOrNoun = (art) (n) ;
+LIST VAdvOrAdj = (vblex) (adv) (adj) ;
+LIST ArtNDirObjPrep = (art) (n) (dirObj) (pr)  ;
+LIST NOrPron = (n) (prn) ;
+LIST Particle = (past) (fut) (inf) (cont) ;
+LIST PrnOrMarker = (prn) (past) (fut) (inf) (cont) ;
+LIST VOrMarker = (vblex) (vbser) (past) (fut) (inf) (cont) ;
+LIST VOrMarkerOrPunct = (vblex) (vbser) (past) (fut) (inf) (cont) (sent) (cm) ;
+LIST notAPrnOrVMarker = (vblex) (vbser) (n) (adj) (adv) (pr) (conj) ;
+LIST InfPropIa = (inf) (proper) (pr) ;
+List InfProp = (inf) (proper) ;
+List ReflPossPrn = (refl) (poss) (prn) ;
+List NOrArt = (n) (art) ;
+
+SECTION
+# If there is a pronoun/verb marker before me, and I am a conjunction or a verb, choose verb
+SELECT V IF (0 Conj) (0 V) (-1 PrnOrMarker) ;
+
+# Otherwise choose conjunction
+SELECT Conj IF (0 Conj) (0 V)  ;
+
+#If there is a verb or verb marker after me (or punct) and I can be an article or a personal pronoun, choose personal pronoun
+# FIXED THIS RULE WEEK 12 (reworked pronouns to create personal pronouns and switched to personal)
+SELECT Prn IF (0 Pers) (0 Art) (1 VOrMarkerOrPunct) ;
+
+# If I am a personal pronoun or an article, and next up is a noun/adj, choose article
+# FIXED THIS RULE WEEK 12 (reworked pronouns to create personal pronouns and switched to personal) 
+SELECT Art IF (0 Art) (0 Pers) (1 NorAdj) ;
+
+#echo "ka leilieh ka ba" | apertium -d . kha-tagger
+#echo "hinrei ba um tip ei-ei" | apertium -d . kha-tagger
+
+
+#Everything after this point was not written for the first assignment
+SECTION
+#If I am la - either a past tense marker or a reflexive, possessive pronoun, if there's a verb or verb marker after me, I'm a tense marker. If there's an article after me, I'm a reflexive, possessive pronoun.
+SELECT ReflPossPrn IF (0 ReflPossPrn) (0 Past) (1 Art) ;
+SELECT Past IF (0 ReflPossPrn) (0 Past) (1 VOrMarker) ;
+SELECT Past if (0 ReflPossPrn) (0 Past) ;
+
+SECTION
+# If there is an infinitive, verb, or preposition after me, and I am an <inf><proper> or verb choose  <inf><proper>
+SELECT InfProp IF (0 InfProp) (0 V) (1 InfPropIa) ;
+#echo "u la leit sha la ing" | apertium -d . kha-tagger
+
+SECTION
+# 'da' is a preposition, cont, or verb. If there is a verb or verb marker after it, select cont. If there is a verb  before it, select verb. If there is a noun or pronoun after it, choose prep
+SELECT Cont IF (0 Prep) (0 Cont) (0 V) (1 VOrMarker) ;
+SELECT V IF (0 Prep) (0 Cont) (0 V) (-1 V) ;
+SELECT Prep IF (0 Prep) (0 Cont) (0 V) (1 NOrPron) ;
+
+SECTION
+#If there is an article, noun, accusative marker, or preposition after a verb that is either transitive or intransitive, select transitive. If sentence is after, select intransitive.
+SELECT Tv IF (0 Tv) (0 Iv) (1 ArtNDirObjPrep) ;
+SELECT Iv IF (0 Tv) (0 Iv) (1 Sent) ;
+
+SECTION
+#'um' can mean both 'he...not' and water. If there is a negative indicator after it, choose negative. If there is an article before it, choose water.
+SELECT Neg IF (0 Neg) (0 N) (1 NegInd) ;
+SELECT N IF (0 Neg) (0 N) (-1 Art) ;
+
+SECTION
+#If the word can be both a verb or a causative form of another verb, choose the simple (here, first) verb. For example, pynlong can be pyn + long = vbser + causative or pynlong = cause to exist, happen, be. (testing with 'SELECT select Caus IF (0 V) (0 Caus)' shows that it is working properly and not just getting the default and failing.
+SELECT V IF (0 V) (0 Vbser) (0 Caus) ;
+
+SECTION
+#If the word is 'ia', and it can be both a pr or dirobj, choose dirObj if next word is dem
+SELECT DirObj IF (0 DirObj) (0 Prep) (1 Dem) ;
+
+SECTION
+#If the word is 'jaid', it can be both a noun or conj, choose conj if next word is conj, otherwise choose noun
+SELECT Conj IF (0 Conj) (0 N) (1 Conj) ;
+SELECT N IF (0 Conj) (0 N) ;
+
+SECTION
+#if it has a person tag OR a vblex tag, choose vblex if there's a pronoun before it or 2 before it (with particle). Otherwise choose person tag (person will kin, kan)
+SELECT V if (0 V) (0 Pers) (-1 Pers) ;
+SELECT V if (0 V) (0 Pers) (-1 Particle) (-2 Pers) ;
+SELECT Pers if (0 V) (0 Pers) ;
+
+SECTION
+#It is Bah/seng/ri, so it can be a verb or a noun. Choose verb if there's a pronoun before it or 2 before it (with particle)
+SELECT N if (0 V) (0 N) (-1 Art) ;
+SELECT V if (0 V) (0 N) (-1 Pers) ;
+SELECT V if (0 V) (0 N) (-1 Particle) (-2 Pers) ;
+SELECT N if (0 V) (0 N) ;
+
+
+SECTION
+#it can be a verb or an adverb. Choose verb if there's a pronoun before it or 2 before it (with particle). Choose adverb all other times, especially if adjective before.
+SELECT Adv if (0 V) (0 Adv) (-1 Adj) ;
+SELECT V if (0 V) (0 Adv) (-1 Pers) ;
+SELECT V if (0 V) (0 Adv) (-1 Particle) (-2 Pers) ;
+SELECT Adv if (0 V) (0 Adv) ;
+
+SECTION
+#If it is an imperative or an adverb, choose imperative if there's a pronoun before it or 2 before it (with particle). Choose adverb all other times
+SELECT Imp if (0 Imp) (0 Adv) (-1 Pers) ;
+SELECT Imp if (0 Imp) (0 Adv) (-1 Particle) (-2 Pers) ;
+SELECT Adv if (0 Imp) (0 Adv) ;
+
+SECTION
+#It is lang or wat, so it can be a verb or an adjective. Choose verb if there's a pronoun before it or 2 before it (with particle). Choose adjective all other times.
+SELECT V if (0 V) (0 Adj) (-1 Pers) ;
+SELECT V if (0 V) (0 Adj) (-1 Particle) (-2 Pers) ;
+SELECT Adj if (0 V) (0 Adj) ;
+
+SECTION
+#it can be a noun or an adjective. Choose noun if there's an article before it. Choose adjective all other times.
+SELECT N if (0 N) (0 Adj) (-1 Art) ;
+SELECT Adj if (0 V) (0 Adj) ;
+
+SECTION
+#It it’s an adjective, adverb, or verb:
+#If art or noun before it, it’s an adjective
+#If verb, adverb, or adjective before it, it’s an adverb
+#If verb marker or pers prn before it, it’s a verb
+SELECT Adj if (0 Adj) (0 Adv) (0 V) (-1 ArtOrNoun) ;
+SELECT Adv if (0 Adj) (0 Adv) (0 V) (-1 VAdvOrAdj) ;
+SELECT V if (0 Adj) (0 Adv) (0 V) (-1 VOrMarker) ;
+
+SECTION
+#It it’s an adjective, noun, or verb:
+#If noun before it, it’s an adjective
+#If verb marker or pers prn before it, it’s a verb
+#If art before it, it's a noun
+SELECT Adj if (0 Adj) (0 N) (0 V) (-1 N) ;
+SELECT N if (0 Adj) (0 N) (0 V) (-1 Art) ;
+SELECT V if (0 Adj) (0 N) (0 V) (-1 VOrMarker) ;
+
+
+SECTION
+#It it’s an adjective, noun, verb, or adverb:
+#If noun before it, it’s an adjective
+#If verb marker or pers prn before it, it’s a verb
+#If verb, adverb, or adjective before it, it’s an adverb
+#If art before it, it's a noun
+SELECT Adj if (0 Adj) (0 N) (0 V) (0 Adv) (-1 N) ;
+SELECT N if (0 Adj) (0 N) (0 V) (0 Adv) (-1 Art) ;
+SELECT V if (0 Adj) (0 N) (0 V) (0 Adv) (-1 VOrMarker) ;
+SELECT Adv if (0 Adj) (0 N) (0 Adv) (0 V) (-1 VAdvOrAdj) ;
+
+SECTION
+#It it’s an adjective, noun, verb, or adverb:
+#If noun before it, it’s an adjective
+#If verb, adverb, or adjective before it, it’s an adverb
+SELECT Adj if (0 Adj) (0 Adv) (-1 N) ;
+SELECT Adv if (0 Adj) (0 Adv) (-1 VAdvOrAdj) ;
+
+
+# Resources:
+# http://visl.sdu.dk/cg3.html
+# http://groups.google.com/group/constraint-grammar
+# http://kevindonnelly.org.uk/2010/05/constraint-grammar-tutorial/
+# http://wiki.apertium.org/wiki/Constraint_Grammar
+# http://wiki.apertium.org/wiki/Apertium_and_Constraint_Grammar
+

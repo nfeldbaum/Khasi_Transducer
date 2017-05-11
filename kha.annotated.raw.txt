@@ -1,0 +1,2814 @@
+"<Ha>"
+	"ha" pr
+"<kaba>"
+	"kaba" prn rel sg f
+"<mynnyngkong>"
+	"mynnyngkong" n f
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<thaw>"
+	"thaw" vblex tv
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<bneng>"
+	"bneng" n f
+"<bad>"
+	"bad" cnjcoo
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<khyndew>"
+	"khyndew" n f
+"<.>"
+	"." sent
+
+"<Bad>"
+	"bad" cnjcoo
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<pyrthei>"
+	"pyrthei" n g
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<bakhlem>"
+	"bakhlem" pr
+"<dur>"
+	"dur" n f
+"<bad>"
+	"bad" cnjcoo
+"<kaba>"
+	"kaba" prn rel sg f
+"<suda>"
+	"suda" vblex pass tv
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingdum>"
+	"jingdum" n f
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<halor>"
+	"halor" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<khmat>"
+	"khmat" n f
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingjylliew>"
+	"jingjylliew" n f
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Mynsiem>"
+	"mynsiem" u m
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<da>"
+	"da" pr
+	"da" cont
+"<khih>"
+	"khih" vblex tv
+"<halor>"
+	"halor" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<urn>"
+	"urn" n f
+"<.>"
+	"." sent
+
+"<Bad>"
+	"bad" cnjcoo
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ong>"
+	"ong" vblex tv
+"<,>"
+	"," cm
+"<To>"
+	"to" vblex imp tv
+"<long>"
+	"slem" adj
+	"long" vbser
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingshai>"
+	"jingshai" n f
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingshai>"
+	"jingshai" n f
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<.>"
+	"." sent
+
+"<Bad>"
+	"bad" cnjcoo
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<iohi>"
+	"iohi" vblex tv
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingshai>"
+	"jingshai" n f
+"<,>"
+	"," cm
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<kaba>"
+	"kaba" prn rel sg f
+"<bha>"
+	"bha" adv
+"<;>"
+	";" sent
+"<bad>"
+	"bad" cnjcoo
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<pyniakhlad>"
+	"pyniakhlad" vblex tv
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingshai>"
+	"jingshai" n f
+"<na>"
+	"na" pr
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingdum>"
+	"jingdum" n f
+"<.>"
+	"." sent
+
+"<Te>"
+	"te" adv
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<khot>"
+	"khot" vblex tv
+"<Ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<Sngi>"
+	"sngi" n f
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingshai>"
+	"jingshai" n f
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingdum>"
+	"jingdum" n f
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<khot>"
+	"khot" vblex tv
+"<Ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<Miet>"
+	"miet" n f
+"<.>"
+	"." sent
+
+"<Bad>"
+	"bad" cnjcoo
+"<kaba>"
+	"kaba" prn rel sg f
+"<lajan>"
+	"lajan" adv
+"<miet>"
+	"miet" n f
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<bad>"
+	"bad" cnjcoo
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<step>"
+	"step" n f
+"<ruh>"
+	"ruh" adv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<,>"
+	"," cm
+"<kawei>"
+	"kawei" adj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<sngi>"
+	"sngi" n f
+"<.>"
+	"." sent
+
+"<Te>"
+	"te" adv
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ong>"
+	"ong" vblex tv
+"<.>"
+	"." sent
+
+"<To>"
+	"to" vblex imp tv
+"<long>"
+	"slem" adj
+	"long" vbser
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<suiñ>"
+	"suiñ" n f
+"<bneng>"
+	"bneng" n f
+"<hapdeng>"
+	"hapdeng" adv
+"<kita>"
+	"ki" pl dem dist osfar
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<um>"
+	"um" prn p3 sg m neg
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<to>"
+	"to" vblex imp tv
+"<ai>"
+	"ai" vblex tv
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<kan>"
+	"kan" vblex tv
+"<pynkhlad>"
+	"pynkhlad" vblex T
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<um>"
+	"um" prn p3 sg m neg
+"<na>"
+	"na" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<um>"
+	"um" prn p3 sg m neg
+"<.>"
+	"." sent
+
+"<Bad>"
+	"bad" cnjcoo
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<pynlong>"
+	"pynlong" vblex tv
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<suiñ>"
+	"suiñ" n f
+"<bneng>"
+	"bneng" n f
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<pynkhlad>"
+	"pynkhlad" vblex T
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<kita>"
+	"ki" pl dem dist osfar
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<um>"
+	"um" prn p3 sg m neg
+"<kiba>"
+	"kiba" prn rel pl
+"<hapoh>"
+	"hapoh" pr
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<suiñ>"
+	"suiñ" n f
+"<bneng>"
+	"bneng" n f
+"<na>"
+	"na" pr
+"<kita>"
+	"ki" pl dem dist osfar
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<um>"
+	"um" prn p3 sg m neg
+"<kiba>"
+	"kiba" prn rel pl
+"<halor>"
+	"halor" pr
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<suiñ>"
+	"suiñ" n f
+"<bneng>"
+	"bneng" n f
+"<;>"
+	";" sent
+"<te>"
+	"te" adv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<long>"
+	"slem" adj
+	"long" vbser
+"<kumta>"
+	"kumta" adv
+"<keiñ>"
+	"keiñ" vblex iv
+"<.>"
+	"." sent
+
+"<Bad>"
+	"bad" cnjcoo
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<suiñ>"
+	"suiñ" n f
+"<bneng>"
+	"bneng" n f
+"<,>"
+	"," cm
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<khot>"
+	"khot" vblex tv
+"<Ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<Bneng>"
+	"bneng" n f
+"<.>"
+	"." sent
+
+"<Bad>"
+	"bad" cnjcoo
+"<kaba>"
+	"kaba" prn rel sg f
+"<lajan>"
+	"lajan" adv
+"<miet>"
+	"miet" n f
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<step>"
+	"step" n f
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<,>"
+	"," cm
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<sngi>"
+	"sngi" n f
+"<kaba>"
+	"kaba" prn rel sg f
+"<ar>"
+	"ar" adj
+"<.>"
+	"." sent
+
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ong>"
+	"ong" vblex tv
+"<ruh>"
+	"ruh" adv
+"<,>"
+	"," cm
+"<To>"
+	"to" vblex imp tv
+"<long>"
+	"slem" adj
+	"long" vbser
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<kin>"
+	"*kin"
+"<ialang>"
+	"*ialang"
+"<sha>"
+	"sha" pr
+"<kawei>"
+	"kawei" adj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jaka>"
+	"*jaka"
+"<kita>"
+	"ki" pl dem dist osfar
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<um>"
+	"um" prn p3 sg m neg
+"<kiba>"
+	"kiba" prn rel pl
+"<hapoh>"
+	"hapoh" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<bneng>"
+	"bneng" n f
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<to>"
+	"to" vblex imp tv
+"<ai>"
+	"ai" vblex tv
+"<kan>"
+	"kan" vblex tv
+"<paw>"
+	"*paw"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<ryngkew>"
+	"*ryngkew"
+"<:>"
+	":" sent
+"<te>"
+	"te" adv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<kumta>"
+	"kumta" adv
+"<keiñ>"
+	"keiñ" vblex iv
+"<.>"
+	"." sent
+
+"<Te>"
+	"te" adv
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<ryngkew>"
+	"*ryngkew"
+"<,>"
+	"," cm
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<khot>"
+	"khot" vblex tv
+"<Ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<Khyndew>"
+	"khyndew" n f
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingialang>"
+	"*jingialang"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<um>"
+	"um" prn p3 sg m neg
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<khot>"
+	"khot" vblex tv
+"<Ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<Duriaw>"
+	"*Duriaw"
+"<;>"
+	";" sent
+"<bad>"
+	"bad" cnjcoo
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<iohi>"
+	"iohi" vblex tv
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<kaba>"
+	"kaba" prn rel sg f
+"<bha>"
+	"bha" adv
+"<.>"
+	"." sent
+
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ong>"
+	"ong" vblex tv
+"<ruh>"
+	"ruh" adv
+"<,>"
+	"," cm
+"<To>"
+	"to" vblex imp tv
+"<long>"
+	"slem" adj
+	"long" vbser
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<khyndew>"
+	"khyndew" n f
+"<kan>"
+	"kan" vblex tv
+"<pynmih>"
+	"*pynmih"
+"<speh>"
+	"*speh"
+"<,>"
+	"," cm
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<jhur>"
+	"*jhur"
+"<kin>"
+	"*kin"
+"<pynsei>"
+	"*pynsei"
+"<symbai>"
+	"*symbai"
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<dieng>"
+	"*dieng"
+"<->"
+	"-" guio
+"<sch>"
+	"*sch"
+"<kin>"
+	"*kin"
+"<seisoh>"
+	"*seisoh"
+"<ha>"
+	"ha" pr
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jaid>"
+	"*jaid"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jaid>"
+	"*jaid"
+"<,>"
+	"," cm
+"<kiba>"
+	"kiba" prn rel pl
+"<don>"
+	"*don"
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<symbai>"
+	"*symbai"
+"<hapoh>"
+	"hapoh" pr
+"<jong>"
+	"jong" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<,>"
+	"," cm
+"<halor>"
+	"halor" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<khyndew>"
+	"khyndew" n f
+"<.>"
+	"." sent
+
+"<Te>"
+	"te" adv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<kumta>"
+	"kumta" adv
+"<keiñ>"
+	"keiñ" vblex iv
+"<.>"
+	"." sent
+
+"<Kumta>"
+	"kumta" adv
+"<te>"
+	"te" adv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<khyndew>"
+	"khyndew" n f
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<pynmih>"
+	"*pynmih"
+"<speh>"
+	"*speh"
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<jhur>"
+	"*jhur"
+"<ruh>"
+	"ruh" adv
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<pynmih>"
+	"*pynmih"
+"<symbai>"
+	"*symbai"
+"<ha>"
+	"ha" pr
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jaid>"
+	"*jaid"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jaid>"
+	"*jaid"
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<dieng>"
+	"*dieng"
+"<soh>"
+	"*soh"
+"<kiba>"
+	"kiba" prn rel pl
+"<pynseisoh>"
+	"*pynseisoh"
+"<ha>"
+	"ha" pr
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jaid>"
+	"*jaid"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jaid>"
+	"*jaid"
+"<,>"
+	"," cm
+"<kiba>"
+	"kiba" prn rel pl
+"<don>"
+	"*don"
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<symbai>"
+	"*symbai"
+"<hapoh>"
+	"hapoh" pr
+"<jong>"
+	"jong" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<;>"
+	";" sent
+"<te>"
+	"te" adv
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<iohi>"
+	"iohi" vblex tv
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<kaba>"
+	"kaba" prn rel sg f
+"<bha>"
+	"bha" adv
+"<.>"
+	"." sent
+"<Te>"
+	"te" adv
+"<kaba>"
+	"kaba" prn rel sg f
+"<lajan>"
+	"lajan" adv
+"<miet>"
+	"miet" n f
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<,>"
+	"," cm
+"<bad>"
+	"bad" cnjcoo
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<step>"
+	"step" n f
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<long>"
+	"slem" adj
+	"long" vbser
+"<,>"
+	"," cm
+"<kaba>"
+	"kaba" prn rel sg f
+"<lai>"
+	"*lai"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<sngi>"
+	"sngi" n f
+"<.>"
+	"." sent
+
+"<Ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingieit>"
+	"*jingieit"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<dei>"
+	"dei" adj
+	"dei" vblex tv
+	"dei" inf prop
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<shap>"
+	"*shap"
+"<jong>"
+	"jong" pr
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<dei>"
+	"dei" adj
+	"dei" vblex tv
+	"dei" inf prop
+"<hi>"
+	"*hi"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<hukum>"
+	"*hukum"
+"<jong>"
+	"jong" pr
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<bad>"
+	"bad" cnjcoo
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<dei>"
+	"dei" adj
+	"dei" vblex tv
+	"dei" inf prop
+"<hi>"
+	"*hi"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jinglong>"
+	"*jinglong"
+"<jong>"
+	"jong" pr
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<.>"
+	"." sent
+
+"<Ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<long>"
+	"slem" adj
+	"long" vbser
+
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingiaroh>"
+	"*jingiaroh"
+"<kaba>"
+	"kaba" prn rel sg f
+"<halor>"
+	"halor" pr
+"<tam>"
+	"tam" sup
+"<ban>"
+	"ban" inf
+"<iakren>"
+	"*iakren"
+"<bad>"
+	"bad" cnjcoo
+"<ban>"
+	"ban" inf
+"<leh>"
+	"*leh"
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<.>"
+	"." sent
+
+"<Hynrei>"
+	"hynrei" conj
+"<haduh>"
+	"*haduh"
+"<katno>"
+	"*katno"
+"<ngin>"
+	"*ngin"
+"<lah>"
+	"*lah"
+"<shisha>"
+	"*shisha"
+"<ban>"
+	"ban" inf
+"<im>"
+	"*im"
+"<bad>"
+	"bad" cnjcoo
+"<ban>"
+	"ban" inf
+"<leh>"
+	"*leh"
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<,>"
+	"," cm
+"<lym>"
+	"*lym"
+"<da>"
+	"da" pr
+	"da" cont
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Blei>"
+	"blei" n m
+"<hi>"
+	"*hi"
+"<da>"
+	"da" pr
+	"da" cont
+"<lade>"
+	"*lade"
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<jied>"
+	"*jied"
+"<da>"
+	"da" pr
+	"da" cont
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<bor>"
+	"*bor"
+"<jong>"
+	"jong" pr
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<ban>"
+	"ban" inf
+"<ai>"
+	"ai" vblex tv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jinglah>"
+	"*jinglah"
+"<ha>"
+	"ha" pr
+"<ngi>"
+	"ngi" prn p1 pl
+"<iwei>"
+	"*iwei"
+"<pa>"
+	"*pa"
+"<iwei>"
+	"*iwei"
+"<.>"
+	"." sent
+
+"<Ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<long>"
+	"slem" adj
+	"long" vbser
+"<kaba>"
+	"kaba" prn rel sg f
+"<jem>"
+	"*jem"
+"<ban>"
+	"ban" inf
+"<ieit>"
+	"*ieit"
+"<bad>"
+	"bad" cnjcoo
+"<isynei>"
+	"*isynei"
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<kiwei>"
+	"*kiwei"
+"<kumba>"
+	"*kumba"
+"<ju>"
+	"*ju"
+"<leh>"
+	"*leh"
+"<da>"
+	"da" pr
+	"da" cont
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<sengbhalang>"
+	"*sengbhalang"
+"<,>"
+	"," cm
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<politishan>"
+	"*politishan"
+"<bad>"
+	"bad" cnjcoo
+"<kiwei>"
+	"*kiwei"
+"<pat>"
+	"*pat"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<kynhun>"
+	"*kynhun"
+"<ne>"
+	"*ne"
+"<riew>"
+	"*riew"
+"<shimet>"
+	"*shimet"
+"<kiba>"
+	"kiba" prn rel pl
+"<ju>"
+	"*ju"
+"<leh>"
+	"*leh"
+"<ieit>"
+	"*ieit"
+"<bad>"
+	"bad" cnjcoo
+"<leh>"
+	"*leh"
+"<isynei>"
+	"*isynei"
+"<sha>"
+	"sha" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<riew>"
+	"*riew"
+"<rangli>"
+	"*rangli"
+"<da>"
+	"da" pr
+	"da" cont
+"<kibam>"
+	"*kibam"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<dihj>"
+	"*dihj"
+"<,>"
+	"," cm
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<jain>"
+	"*jain"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<nep>"
+	"*nep"
+"<kiba>"
+	"kiba" prn rel pl
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ioh>"
+	"*ioh"
+"<pdiang>"
+	"*pdiang"
+"<na>"
+	"na" pr
+"<kiwei>"
+	"*kiwei"
+"<pat>"
+	"*pat"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<riew>"
+	"*riew"
+"<heh>"
+	"*heh"
+"<spah>"
+	"*spah"
+"<ne>"
+	"*ne"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<company>"
+	"*company"
+"<bapher>"
+	"*bapher"
+"<bapher>"
+	"*bapher"
+"<kiba>"
+	"kiba" prn rel pl
+"<kyshan>"
+	"*kyshan"
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<.>"
+	"." sent
+
+"<Hynrei>"
+	"hynrei" conj
+"<kam>"
+	"*kam"
+"<long>"
+	"slem" adj
+	"long" vbser
+"<kaba>"
+	"kaba" prn rel sg f
+"<suk>"
+	"*suk"
+"<ban>"
+	"ban" inf
+"<knia>"
+	"*knia"
+"<shisha>"
+	"*shisha"
+"<da>"
+	"da" pr
+	"da" cont
+"<lade>"
+	"*lade"
+"<ban>"
+	"ban" inf
+"<leh>"
+	"*leh"
+"<bha>"
+	"bha" adv
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<kiwei>"
+	"*kiwei"
+"<na>"
+	"na" pr
+"<kaei>"
+	"*kaei"
+"<kaba>"
+	"kaba" prn rel sg f
+"<dei>"
+	"dei" adj
+	"dei" vblex tv
+	"dei" inf prop
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jong>"
+	"jong" pr
+"<ngi>"
+	"ngi" prn p1 pl
+"<hi>"
+	"*hi"
+"<.>"
+	"." sent
+
+"<Katei>"
+	"*Katei"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<mat>"
+	"*mat"
+"<jong>"
+	"jong" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingieit>"
+	"*jingieit"
+"<ri>"
+	"*ri"
+"<bad>"
+	"bad" cnjcoo
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingieit>"
+	"*jingieit"
+"<rangli>"
+	"*rangli"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<mih>"
+	"*mih"
+"<halor>"
+	"halor" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingkylli>"
+	"*jingkylli"
+"<jong>"
+	"jong" pr
+"<uwei>"
+	"*uwei"
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<rangbah>"
+	"*rangbah"
+"<kumne>"
+	"*kumne"
+"<kine>"
+	"ki" pl dem prox
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<nongdie>"
+	"*nongdie"
+"<madan>"
+	"*madan"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ioh>"
+	"*ioh"
+"<biang>"
+	"*biang"
+"<ban>"
+	"ban" inf
+"<buhai>"
+	"*buhai"
+"<basa>"
+	"*basa"
+"<harud>"
+	"*harud"
+"<surok>"
+	"*surok"
+"<haduh>"
+	"*haduh"
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<pynsatah>"
+	"*pynsatah"
+"<hi>"
+	"*hi"
+"<khait>"
+	"*khait"
+"<.>"
+	"." sent
+
+"<Kawei>"
+	"kawei" adj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingkynthoh>"
+	"*jingkynthoh"
+"<kaba>"
+	"kaba" prn rel sg f
+"<khlain>"
+	"*khlain"
+"<bha>"
+	"bha" adv
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ai>"
+	"ai" vblex tv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<long>"
+	"slem" adj
+	"long" vbser
+"<">"
+	""" quot
+"<hato>"
+	"*hato"
+"<kine>"
+	"ki" pl dem prox
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<khar>"
+	"*khar"
+"<kiw>"
+	"*kiw"
+"<khar>"
+	"*khar"
+"<kaw>"
+	"*kaw"
+"<kiba>"
+	"kiba" prn rel pl
+"<tuid>"
+	"*tuid"
+"<na>"
+	"na" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<heh>"
+	"*heh"
+"<paid>"
+	"*paid"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<ri>"
+	"*ri"
+"<India>"
+	"*India"
+"<ruh>"
+	"ruh" adv
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<dei>"
+	"dei" adj
+	"dei" vblex tv
+	"dei" inf prop
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<rangli>"
+	"*rangli"
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Hynniewtrep>"
+	"*Hynniewtrep"
+"<seh>"
+	"*seh"
+"<mo>"
+	"*mo"
+"<">"
+	""" quot
+"<?>"
+	"?" sent
+"<Ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<long>"
+	"slem" adj
+	"long" vbser
+"<kaba>"
+	"kaba" prn rel sg f
+"<sngewtynnad>"
+	"*sngewtynnad"
+"<ban>"
+	"ban" inf
+"<don>"
+	"*don"
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<sengbhalang>"
+	"*sengbhalang"
+"<,>"
+	"," cm
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<seng>"
+	"*seng"
+"<niam>"
+	"*niam"
+"<ne>"
+	"*ne"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<riew>"
+	"*riew"
+"<shimet>"
+	"*shimet"
+"<kiba>"
+	"kiba" prn rel pl
+"<trei>"
+	"*trei"
+"<na>"
+	"na" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<bynta>"
+	"*bynta"
+"<ban>"
+	"ban" inf
+"<peit>"
+	"*peit"
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<bha>"
+	"bha" adv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<miat>"
+	"*miat"
+"<jong>"
+	"jong" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<duk>"
+	"*duk"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<rangbali>"
+	"*rangbali"
+"<ban>"
+	"ban" inf
+"<kyntiew>"
+	"*kyntiew"
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<bha>"
+	"bha" adv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<miat>"
+	"*miat"
+"<jong>"
+	"jong" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<.>"
+	"." sent
+
+"<Hynrei>"
+	"hynrei" conj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<long>"
+	"slem" adj
+	"long" vbser
+"<ruh>"
+	"ruh" adv
+"<kaba>"
+	"kaba" prn rel sg f
+"<donkam>"
+	"*donkam"
+"<pat>"
+	"*pat"
+"<ban>"
+	"ban" inf
+"<peit>"
+	"*peit"
+"<ha>"
+	"ha" pr
+"<baroh>"
+	"*baroh"
+"<arliang>"
+	"*arliang"
+"<jong>"
+	"jong" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<tyngka>"
+	"*tyngka"
+"<pliah>"
+	"*pliah"
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<dor>"
+	"*dor"
+"<jong>"
+	"jong" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<bad>"
+	"bad" cnjcoo
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<dur>"
+	"dur" n f
+"<jong>"
+	"jong" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<.>"
+	"." sent
+
+"<Lada>"
+	"*Lada"
+"<kum>"
+	"*kum"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<sengbhalang>"
+	"*sengbhalang"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<ieng>"
+	"*ieng"
+"<ban>"
+	"ban" inf
+"<kyrshan>"
+	"*kyrshan"
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<nongdie>"
+	"*nongdie"
+"<madan>"
+	"*madan"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<long>"
+	"slem" adj
+	"long" vbser
+"<ruh>"
+	"ruh" adv
+"<kaba>"
+	"kaba" prn rel sg f
+"<donkam>"
+	"*donkam"
+"<ban>"
+	"ban" inf
+"<iatreilang>"
+	"*iatreilang"
+"<bad>"
+	"bad" cnjcoo
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<ban>"
+	"ban" inf
+"<pynsngewthuh>"
+	"*pynsngewthuh"
+"<sha>"
+	"sha" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<kato>"
+	"ka" sg f dem dist near
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<rukom>"
+	"*rukom"
+"<trei>"
+	"*trei"
+"<ne>"
+	"*ne"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<bynta>"
+	"*bynta"
+"<jong>"
+	"jong" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingim>"
+	"*jingim"
+"<kam>"
+	"*kam"
+"<dei>"
+	"dei" adj
+	"dei" vblex tv
+	"dei" inf prop
+"<kaba>"
+	"kaba" prn rel sg f
+"<kut>"
+	"*kut"
+"<,>"
+	"," cm
+"<hynrei>"
+	"hynrei" conj
+"<haba>"
+	"*haba"
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<biang>"
+	"*biang"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<sngi>"
+	"sngi" n f
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<por>"
+	"*por"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<dei>"
+	"dei" adj
+	"dei" vblex tv
+	"dei" inf prop
+"<ban>"
+	"ban" inf
+"<thaw>"
+	"thaw" vblex tv
+"<noh>"
+	"*noh"
+"<da>"
+	"da" pr
+	"da" cont
+"<kiwei>"
+	"*kiwei"
+"<pat>"
+	"*pat"
+"<kilad>"
+	"*kilad"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<lynti>"
+	"*lynti"
+"<khnang>"
+	"*khnang"
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ym>"
+	"*ym"
+"<tang>"
+	"*tang"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<briew>"
+	"*briew"
+"<kiba>"
+	"kiba" prn rel pl
+"<bha>"
+	"bha" adv
+"<ban>"
+	"ban" inf
+"<miat>"
+	"*miat"
+"<hynrei>"
+	"hynrei" conj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<shnong>"
+	"*shnong"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<thaw>"
+	"thaw" vblex tv
+"<ruh>"
+	"ruh" adv
+"<kan>"
+	"kan" vblex tv
+"<long>"
+	"slem" adj
+	"long" vbser
+"<kumta>"
+	"kumta" adv
+"<lang>"
+	"*lang"
+"<.>"
+	"." sent
+
+"<Kum>"
+	"*Kum"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<sengbhalang>"
+	"*sengbhalang"
+"<donkam>"
+	"*donkam"
+"<ruh>"
+	"ruh" adv
+"<ban>"
+	"ban" inf
+"<don>"
+	"*don"
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<mynsiem>"
+	"mynsiem" u m
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ieng>"
+	"*ieng"
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<da>"
+	"da" pr
+	"da" cont
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<mariang>"
+	"*mariang"
+"<ban>"
+	"ban" inf
+"<pynneh>"
+	"*pynneh"
+"<pynsah>"
+	"*pynsah"
+"<ia>"
+	"ia" pr
+	"ia" dirObj
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<jingiatynnad>"
+	"*jingiatynnad"
+"<bad>"
+	"bad" cnjcoo
+"<jingdonburom>"
+	"*jingdonburom"
+"<jong>"
+	"jong" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<.>"
+	"." sent
+
+"<Haba>"
+	"*Haba"
+"<ïakren>"
+	"*ïakren"
+"<bad>"
+	"bad" cnjcoo
+"<Nongai>"
+	"*Nongai"
+"<khubor>"
+	"*khubor"
+"<lyngba>"
+	"*lyngba"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<phone>"
+	"*phone"
+"<,>"
+	"," cm
+"<kane>"
+	"ka" sg f dem prox
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<Samla>"
+	"*Samla"
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<wat>"
+	"*wat"
+"<hashuwa>"
+	"*hashuwa"
+"<ban>"
+	"ban" inf
+"<leit>"
+	"leit" vblex tv
+	"leit" vblex T
+"<mudui>"
+	"*mudui"
+"<sha>"
+	"sha" pr
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Myntri>"
+	"*Myntri"
+"<,>"
+	"," cm
+"<kala>"
+	"*kala"
+"<dep>"
+	"*dep"
+"<ruh>"
+	"ruh" adv
+"<ban>"
+	"ban" inf
+"<mudui>"
+	"*mudui"
+"<ïa>"
+	"ïa" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<sha>"
+	"sha" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<Heh>"
+	"*Heh"
+"<Ophisar>"
+	"*Ophisar"
+"<jong>"
+	"jong" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<kynthup>"
+	"*kynthup"
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Under>"
+	"*Under"
+"<Secretary>"
+	"*Secretary"
+"<hynrei>"
+	"hynrei" conj
+"<ym>"
+	"*ym"
+"<shym>"
+	"*shym"
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<don>"
+	"*don"
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<sangap>"
+	"*sangap"
+"<satia>"
+	"*satia"
+"<.>"
+	"." sent
+
+"<“>"
+	"“" lquot
+"<Khlem>"
+	"khlem" pr
+"<kano>"
+	"kano" prn inter
+"<kano>"
+	"kano" prn inter
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<daw>"
+	"*daw"
+"<,>"
+	"," cm
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Director>"
+	"*Director"
+"<ula>"
+	"*ula"
+"<phah>"
+	"*phah"
+"<pynsangeh>"
+	"*pynsangeh"
+"<ïa>"
+	"ïa" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<tulop>"
+	"*tulop"
+"<jong>"
+	"jong" pr
+"<nga>"
+	"nga" prn p1 sg
+"<mynta>"
+	"*mynta"
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<hynriew>"
+	"*hynriew"
+"<bnai>"
+	"*bnai"
+"<bad>"
+	"bad" cnjcoo
+"<mynta>"
+	"*mynta"
+"<ula>"
+	"*ula"
+"<pynkyn>"
+	"*pynkyn"
+"<riah>"
+	"*riah"
+"<ïa>"
+	"ïa" pr
+"<nga>"
+	"nga" prn p1 sg
+"<sha>"
+	"sha" pr
+"<kawei>"
+	"kawei" adj
+"<pat>"
+	"*pat"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<District>"
+	"*District"
+"<.>"
+	"." sent
+
+"<Nga>"
+	"nga" prn p1 sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<leit>"
+	"leit" vblex tv
+	"leit" vblex T
+"<sha>"
+	"sha" pr
+"<Byrnihat>"
+	"*Byrnihat"
+"<bad>"
+	"bad" cnjcoo
+"<buh>"
+	"buh" vblex tv
+"<ïa>"
+	"ïa" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<shithi>"
+	"*shithi"
+"<sdang>"
+	"*sdang"
+
+"<treikam>"
+	"*treikam"
+"<(>"
+	"(" lpar
+"<Joining>"
+	"*Joining"
+"<Letter>"
+	"*Letter"
+"<)>"
+	")" rpar
+"<jong>"
+	"jong" pr
+"<nga>"
+	"nga" prn p1 sg
+"<”>"
+	"”" rquot
+"<ong>"
+	"ong" vblex tv
+"<kane>"
+	"ka" sg f dem prox
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<samla>"
+	"*samla"
+"<.>"
+	"." sent
+
+"<Haba>"
+	"*Haba"
+"<kylli>"
+	"*kylli"
+"<,>"
+	"," cm
+"<kane>"
+	"ka" sg f dem prox
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<samla>"
+	"*samla"
+"<kala>"
+	"*kala"
+"<ïathuh>"
+	"*ïathuh"
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<hadien>"
+	"*hadien"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingkyntait>"
+	"*jingkyntait"
+"<ïa>"
+	"ïa" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<hukum>"
+	"*hukum"
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Director>"
+	"*Director"
+"<(>"
+	"(" lpar
+"<Ban>"
+	"ban" inf
+"<sahmiet>"
+	"*sahmiet"
+"<bad>"
+	"bad" cnjcoo
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<ula>"
+	"*ula"
+"<khang>"
+	"*khang"
+"<shisyndon>"
+	"*shisyndon"
+"<ïa>"
+	"ïa" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<ban>"
+	"ban" inf
+"<rung>"
+	"*rung"
+"<ha>"
+	"ha" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<Ïingsah>"
+	"*Ïingsah"
+"<jong>"
+	"jong" pr
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<bad>"
+	"bad" cnjcoo
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<shu>"
+	"*shu"
+"<pynïeng>"
+	"*pynïeng"
+"<ïa>"
+	"ïa" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<shabar>"
+	"*shabar"
+"<Ïing>"
+	"*Ïing"
+"<naduh>"
+	"*naduh"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<por>"
+	"*por"
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<wan>"
+	"*wan"
+"<mynstep>"
+	"*mynstep"
+"<haduh>"
+	"*haduh"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<por>"
+	"*por"
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<wai>"
+	"*wai"
+"<trei>"
+	"*trei"
+"<”>"
+	"”" rquot
+"<.>"
+	"." sent
+
+"<“>"
+	"“" lquot
+"<U>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<(>"
+	"(" lpar
+"<Director>"
+	"*Director"
+"<)>"
+	")" rpar
+"<ong>"
+	"ong" vblex tv
+"<ïa>"
+	"ïa" pr
+"<nga>"
+	"nga" prn p1 sg
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<nga>"
+	"nga" prn p1 sg
+"<hap>"
+	"*hap"
+"<ban>"
+	"ban" inf
+"<sah>"
+	"*sah"
+"<bad>"
+	"bad" cnjcoo
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<naba>"
+	"*naba"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<dei>"
+	"dei" adj
+	"dei" vblex tv
+	"dei" inf prop
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<kamram>"
+	"*kamram"
+"<jong>"
+	"jong" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<kat>"
+	"*kat"
+"<kum>"
+	"*kum"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<Rule>"
+	"*Rule"
+"<.>"
+	"." sent
+
+"<Nga>"
+	"nga" prn p1 sg
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<pyrshang>"
+	"*pyrshang"
+"<ban>"
+	"ban" inf
+"<wad>"
+	"*wad"
+"<ïa>"
+	"ïa" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingshisha>"
+	"*jingshisha"
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<long>"
+	"slem" adj
+	"long" vbser
+"<don>"
+	"*don"
+"<shisha>"
+	"*shisha"
+"<ne>"
+	"*ne"
+"<em>"
+	"*em"
+"<kata>"
+	"ka" sg f dem dist osfar
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<Rule>"
+	"*Rule"
+"<hapoh>"
+	"hapoh" pr
+"<Secretariat>"
+	"*Secretariat"
+"<hynrei>"
+	"hynrei" conj
+"<ngam>"
+	"*ngam"
+"<shym>"
+	"*shym"
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<lap>"
+	"*lap"
+"<satia>"
+	"*satia"
+"<”>"
+	"”" rquot
+"<kala>"
+	"*kala"
+"<ong>"
+	"ong" vblex tv
+"<.>"
+	"." sent
+
+"<Kat>"
+	"*Kat"
+"<kum>"
+	"*kum"
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<jingong>"
+	"*jingong"
+"<jong>"
+	"jong" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<,>"
+	"," cm
+"<ha>"
+	"ha" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<khyllipmat>"
+	"*khyllipmat"
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<rungkam>"
+	"*rungkam"
+"<,>"
+	"," cm
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<ïalam>"
+	"*ïalam"
+"<beit>"
+	"*beit"
+"<beit>"
+	"*beit"
+"<ïa>"
+	"ïa" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<sha>"
+	"sha" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<Ïingsah>"
+	"*Ïingsah"
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<Director>"
+	"*Director"
+"<bad>"
+	"bad" cnjcoo
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<phah>"
+	"*phah"
+"<sait>"
+	"sait" vblex tv
+"<ïa>"
+	"ïa" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<tiar>"
+	"*tiar"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<tar>"
+	"*tar"
+"<bad>"
+	"bad" cnjcoo
+"<phah>"
+	"*phah"
+"<nïad>"
+	"*nïad"
+"<istiri>"
+	"*istiri"
+"<ïa>"
+	"ïa" pr
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<jaiñ>"
+	"*jaiñ"
+"<ki>"
+	"ki" prn p3 pl
+	"article" art pl
+"<nep>"
+	"*nep"
+"<jong>"
+	"jong" pr
+"<u>"
+	"u" prn p3 sg m
+	"article" art m sg
+"<nalor>"
+	"*nalor"
+"<ba>"
+	"ba" conj
+	"ba" vblex tv
+"<ym>"
+	"*ym"
+"<shym>"
+	"*shym"
+"<la>"
+	"la" past
+	"la" prn refl poss
+"<buh>"
+	"buh" vblex tv
+"<ruh>"
+	"ruh" adv
+"<ïa>"
+	"ïa" pr
+"<ka>"
+	"ka" prn p3 sg f
+	"article" art f sg
+"<por>"
+	"*por"
+"<trei>"
+	"*trei"
+"<ne>"
+	"*ne"
+"<por>"
+	"*por"
+"<leit>"
+	"leit" vblex tv
+	"leit" vblex T
+"<ïing>"
+	"*ïing"
+"<..>"
+	".." sent

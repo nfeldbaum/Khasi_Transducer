@@ -1,0 +1,1170 @@
+Multichar_Symbols
+! + - Case Markers
+%[%-nmz%] !nominalizer
+%[%+nmz%] !nominalizer
+%[%-abs%] ! abstract noun
+%[%+abs%] ! abstract noun
+%[%-prog%] !progressive
+%[%+prog%] !progressive
+%[%-futAsp%] !future aspect (nouns)
+%[%+futAsp%] !future aspect (nouns)
+%[%-pastAsp%] !past aspect (adverbs)
+%[%+pastAsp%] !past aspect (adverbs)
+%[%-caus%] !causative
+%[%+caus%] !causative
+%[%-emph%] !emphasis (it is I/you)
+%[%+emph%] !emphasis (it is I/you)
+%[%+adjize%] ! adjectivize
+%[%-adjize%] ! adjectivize 
+
+
+! Part of speech categories
+%<n%>   ! Noun
+%<nmz%>   ! Noun
+%<vblex%>   ! lexical verb
+%<vbser%>   ! to be/linking verb
+%<adj%>  ! Adjective
+%<adv%>  ! Adverb
+%<pr%>   ! Preposition
+%<prn%>   ! Pronoun
+%<art%>   ! Article
+
+! Number morphology
+%<pl%>  ! Plural
+%<sg%>  ! Singular
+
+!Gender/plurality
+
+! Gender
+%<f%>   ! Feminine
+%<m%>   ! Masculine
+%<GD%>   ! Either gender
+
+! Person markers
+%<p1%>    ! 1st Person
+%<p2%>    ! 2nd Person
+%<p3%>    ! 3rd Person
+
+! Tense
+%<pres%>  ! Present
+%<past%>
+%<inf%>
+%<fut%>
+%<dim%>
+%<rel%>
+
+%<sent%>
+%<quot%>
+%<lpar%>
+%<rpar%>
+%<cm%>
+%<guio%>
+%<apos%>
+%<lquot%>
+%<rquot%>
+
+
+! Voice
+%<actv%>  ! Active
+
+! Other symbols
+%>        ! Morpheme boundary
+%<comp%>  ! Comparative
+%<sup%>   ! Superlative
+%<dem%>   ! Demonstrative
+%<adjize%> ! adjectivize
+%<nonKhasi%> !not a Khasi word (ie English)
+%<near%>   ! near
+%<far%>   ! in sight far
+%<osfar%>   ! out of sight far 
+%<prox%>   ! Proximal (this) 
+%<dist%>   ! Distal (that)
+%<up%>     ! (that) up (there)
+%<conj%>   ! Conjunction
+%<cont%>   ! continued state or action
+%<cert%>   ! certainty or nearness of a future or contemplated action
+%<cnjcoo%> ! coordinating conjunction
+%<abs%>    ! abstract noun
+%<prog%>    ! progressive aspect (verb)
+%<futAsp%>    ! future aspect (noun)
+%<pastAsp%>    ! past aspect (adverb)
+%<caus%>    ! causative 
+%<emph%>    ! emphasis (personal pronoun)
+%<pers%> !personal (in personal pronouns)
+%<impCop%> !copula implicit
+%<large%> !copula implicit
+
+%<neg%>    ! negative
+%<negInd%> !goes with negative tag and indicates that it's really a negative and not soemthing else
+%<proper%> ! should, ought
+%<refl%> ! reflexive
+%<poss%> ! possessive
+%<iv%> ! intransitive
+%<tv%> ! transitive
+%<pass%> ! passive
+%<imp%> ! imperative
+%<dirObj%> ! direct object marker (particle)
+%<inter%> ! interrogative
+%  !space
+%- !dash
+%+
+% 
+%~
+%.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                       M O R P H O T A C T I C S                         !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Root
+
+Prefixes ;
+Affixes ;
+Prepositions ;
+Verbs ;
+Particles ;
+Articles ;
+Conjunctions ;
+Adverb ;
+Punctuation ;
+Demonstratives ;
+Nominals;
+NonKhasiWordsInCorpus;
+
+LEXICON nounInflF
+%<n%>%<f%>%<pl%>:%>%-kynthei Tags ;
+%<n%>%<f%>%<pl%>:%>% kynthei Tags ; ! Dir/LR
+%<n%>%<f%>%<pl%>:%>kynthei Tags ; ! Dir/LR
+!plural diminutives
+%<n%>%<f%>%<pl%>%<dim%>:%>%-ria Tags ;
+%<n%>%<f%>%<pl%>%<dim%>:%>ria Tags ; ! Dir/LR
+%<n%>%<f%>%<pl%>%<dim%>:%>% ria Tags ; ! Dir/LR
+%<n%>%<f%>%<pl%>%<dim%>:%>%-rit Tags ;
+%<n%>%<f%>%<pl%>%<dim%>:%>rit Tags ; ! Dir/LR
+%<n%>%<f%>%<pl%>%<dim%>:%>% rit Tags ; ! Dir/LR
+%<n%>%<f%>%<pl%>%<dim%>:%>%-khun Tags ;
+%<n%>%<f%>%<pl%>%<dim%>:%>khun Tags ; ! Dir/LR
+%<n%>%<f%>%<pl%>%<dim%>:%>% khun Tags ; ! Dir/LR
+%<n%>%<f%>%<pl%>%<dim%>:%>%-raid Tags ;
+%<n%>%<f%>%<pl%>%<dim%>:%>raid Tags ; ! Dir/LR
+%<n%>%<f%>%<pl%>%<dim%>:%>% raid Tags ;  ! Dir/L
+!bah, meaning great/big
+%<n%>%<f%>%<large%>:%>%-bah Tags ;
+%<n%>%<f%>%<large%>:%>%bah Tags ;
+! the regular stuff
+%<n%>%<f%>:%> Tags ;
+
+LEXICON nounInflM
+%<n%>%<m%>%<pl%>:%>%-shinrang Tags ;
+%<n%>%<m%>%<pl%>:%>% shinrang Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>:%>shinrang Tags ; ! Dir/LR
+!plural diminutives
+%<n%>%<m%>%<pl%>%<dim%>:%>%-ria Tags ;
+%<n%>%<m%>%<pl%>%<dim%>:%>ria Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>%<dim%>:%>% ria Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>%<dim%>:%>%-rit Tags ;
+%<n%>%<m%>%<pl%>%<dim%>:%>rit Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>%<dim%>:%>% rit Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>%<dim%>:%>%-khun Tags ;
+%<n%>%<m%>%<pl%>%<dim%>:%>khun Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>%<dim%>:%>% khun Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>%<dim%>:%>%-raid Tags ;
+%<n%>%<m%>%<pl%>%<dim%>:%>raid Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>%<dim%>:%>% raid Tags ;  ! Dir/L
+!bah, meaning great/big
+%<n%>%<m%>%<large%>:%>%-bah Tags ;
+%<n%>%<m%>%<large%>:%>%bah Tags ;
+! the regular stuff
+%<n%>%<m%>:%> Tags ;
+
+
+LEXICON nounInflGD
+%<n%>%<f%>%<pl%>:%>%-kynthei Tags ;
+%<n%>%<f%>%<pl%>:%>% kynthei Tags ; ! Dir/LR
+%<n%>%<f%>%<pl%>:%>kynthei Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>:%>%-shinrang Tags ;
+%<n%>%<m%>%<pl%>:%>% shinrang Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>:%>shinrang Tags ; ! Dir/LR
+!plural diminutives
+%<n%>%<GD%>%<pl%>%<dim%>:%>%-ria Tags ;
+%<n%>%<GD%>%<pl%>%<dim%>:%>ria Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>% ria Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>%-rit Tags ;
+%<n%>%<GD%>%<pl%>%<dim%>:%>rit Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>% rit Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>%-khun Tags ;
+%<n%>%<GD%>%<pl%>%<dim%>:%>khun Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>% khun Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>%-raid Tags ;
+%<n%>%<GD%>%<pl%>%<dim%>:%>raid Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>% raid Tags ;  ! Dir/L
+!bah, meaning great/big
+%<n%>%<GD%>%<large%>:%>%-bah Tags ;
+%<n%>%<GD%>%<large%>:%>%bah Tags ;
+! the regular stuff
+%<n%>%<GD%>:%> Tags ;
+
+LEXICON nounInflDim
+%<n%>%<f%>%<pl%>%<dim%>:%>%-kynthei Tags ;
+%<n%>%<f%>%<pl%>%<dim%>:%>% kynthei Tags ; ! Dir/LR
+%<n%>%<f%>%<pl%>%<dim%>:%>kynthei Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>%<dim%>:%>%-shinrang Tags ;
+%<n%>%<m%>%<pl%>%<dim%>:%>% shinrang Tags ; ! Dir/LR
+%<n%>%<m%>%<pl%>%<dim%>:%>shinrang Tags ; ! Dir/LR
+!plural diminutives
+%<n%>%<GD%>%<pl%>%<dim%>:%>%-ria Tags ;
+%<n%>%<GD%>%<pl%>%<dim%>:%>ria Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>% ria Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>%-rit Tags ;
+%<n%>%<GD%>%<pl%>%<dim%>:%>rit Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>% rit Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>%-khun Tags ;
+%<n%>%<GD%>%<pl%>%<dim%>:%>khun Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>% khun Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>%-raid Tags ;
+%<n%>%<GD%>%<pl%>%<dim%>:%>raid Tags ; ! Dir/LR
+%<n%>%<GD%>%<pl%>%<dim%>:%>% raid Tags ;  ! Dir/L
+! the regular stuff
+%<n%>%<GD%>%<dim%>:%> Tags ;
+
+
+LEXICON Tags
+%<abs%>%[%+abs%]: # ;
+%<nmz%>%[%+nmz%]: # ;
+%<prog%>%[%+prog%]: # ;
+%<futAsp%>%[%+futAsp%]: # ;
+%<pastAsp%>%[%+pastAsp%]: # ;
+%<caus%>%[%+caus%]: # ;
+%<emph%>%[%+emph%]: # ;
+%<adjize%>%[%+adjize%]: # ;
+# ;
+
+LEXICON VerbInflT
+%<vblex%>%<tv%>:%> Tags ;
+
+LEXICON VerbInflI
+%<vblex%>%<iv%>:%> Tags ;
+
+LEXICON prepInfl
+%<pr%>:%> prepCont ;
+
+LEXICON AdjInfl
+%<adj%>%<sup%>:%>% tam Tags ;
+%<adj%>%<sup%>:%>% kham%-tam Tags ; ! Dir/LR
+%<adj%>%<sup%>:%>% shikkadei Tags ; ! Dir/LR
+%<adj%>%<sup%>:%>% eh Tags ; ! Dir/LR
+%<adj%>:%> Tags ;
+
+LEXICON AdverbInfl
+%<adv%>:%> Tags ;
+
+LEXICON CooConjunctionInfl
+%<coocnj%>:%> Tags ;
+
+LEXICON ConjunctionInfl
+%<conj%>:%> Tags ;
+
+LEXICON PartInfl
+!relative pronouns/person markers + n (fut) and m (neg) and la (past)
+%<fut%>:%>n Tags ;
+%<neg%>:%>m Tags ;
+%<past%>:%>la Tags ;
+Tags ;
+
+LEXICON prepCont
+!relative pronouns/person markers + n (fut) and m (neg) and la (past)
+%<prn%>%<pers%>%<p3%>%<sg%>%<m%>:%>u Tags ; 
+%<prn%>%<pers%>%<p3%>%<sg%>%<f%>:%>ka Tags ; 
+%<prn%>%<pers%>%<p3%>%<pl%>%<GD%>:%>ki Tags ;
+Tags ;
+
+LEXICON nonKhasiInfl
+%<n%>%<nonKhasi%>:%> # ;
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                          L E X I C O N                                  !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Nominals
+
+PersonalPronouns ;
+RelativePronouns ;
+ReflexivePossessivePronouns ;
+InterrogativePronouns ;
+NounRoot ;
+Adjectives ;
+
+
+LEXICON NounRoot
+
+met:met nounInflF ; ! a body, a person
+mariang:mariang nounInflF ; ! earth, nature, world
+dak:dak nounInflM ; ! a sign, a letter; a mark; a postal runner
+wahumkhrah:wahumkhrah nounInflF ; ! a particular river
+tulop:tulop nounInflF ; ! pay, salary
+jymmang:jymmang nounInflM ; ! the month May
+pyrda:pyrda nounInflF ; ! hangings, a curtain
+pa:pa nounInflDim; ! father
+men:men nounInflGD ; !an old man or woman
+tnat:tnat nounInflF ; !a branch, a twig
+mohan:mohan nounInflF ; ! a particular soccer club in India
+bagan:bagan nounInflF ; ! a particular soccer club in India
+phang:phang nounInflF ; ! quarter, side, allotted part.
+san:san nounInflF ; ! five
+mon:mon nounInflF ; ! a will; a maund
+pateng:pateng nounInflGD ; ! a joint or a link
+shakri:shakri nounInflGD ; ! a servant
+Adam:Adam nounInflM ; ! Adam from Genesis (IE Adam and Eve)
+ding:ding nounInflF ; ! fire
+stad:stad nounInflM ; ! a wise, clever, learned man
+kyndon:kyndon nounInflF ; ! step, grade, shelf.
+mawlai:mawlai nounInflGD ; ! a specific town in India
+sengbhalang:sengbhalang nounInflGD ; ! [unknown definition]
+longkmie:longkmie nounInflF ; ! [unknown definition]
+pdeng:pdeng nounInflF ; ! the middle
+khristan:khristan nounInflGD ; ! Christian
+bar:bar nounInflF ; ! outside, surface
+nong:nong nounInflF ; ! wages, gain, profit; a hired man or woman; anything given out for hire
+kular:kular nounInflF ; ! a promise 
+kyrdan:kyrdan nounInflF ; !step, degree, shelf
+shynrang:shynrang nounInflM ; ! a male, a pipe
+bampong:bampong nounInflGD ; ! cancer, scrofula.
+par:par nounInflF ; ! a mine, a quarry
+hukum:hukum nounInflF ; ! commandment; order
+Vinod:Vinod nounInflM ; ! a particular first name
+Khana:Khana nounInflM ; ! a particular last name
+Khana:Khana nounInflM ; ! a particular last name
+lut:lut nounInflF ; ! a currency note
+nongstoiñ:nongstoiñ nounInflGD ; ! a particular state in India
+prokram:prokram nounInflF ; ! program
+kper:kper nounInflF ; ! a garden
+khanna:khanna nounInflGD ; ! a particular last name
+klur:klur nounInflF ; ! one crore
+sien:sien nounInflF ; ! time
+ophisar:ophisar nounInflM ; ! officer
+kyrtong:kyrtong nounInflM ; ! a bull, an ox ; a hero.
+drok:drok nounInflM ; ! [unsure of definition]
+lak:lak nounInflGD ; ! 100,000
+dustur:dustur nounInflF ; ! custom, habit
+dorbar:dorbar nounInflF ; ! a council
+masi:masi nounInflGD ; ! a cow, bull; an ox
+jaidbynriew:jaidbynriew nounInflF ; ! [unsure of definition]
+sem:sem nounInflF ; ! a shed, a pen
+pait:pait nounInflM ; ! a crowd
+kynrad:kynrad nounInflGD ; ! a master, a lord
+nongrim:nongrim nounInflF ; !foundation; site of an abandoned village
+niam:niam nounInflF ; ! religion, religious usages, customs
+kyrwoh:kyrwoh nounInflGD ; ! a link, a ring
+madan:madan nounInflF ; ! a plain
+pud:pud nounInflF ; ! a boundary
+kut:kut nounInflF ; ! a stockade, a fort
+jingmyntoi:jingmyntoi nounInflF ; ! advantage, gain, profit
+nam:nam nounInflF ; ! fame
+man:man nounInflF ; ! a cannon
+ma:ma nounInflF ; ! a battle, campaign
+dor:dor nounInflF ; ! price
+lyngdoh:lyngdoh nounInflGD ; ! a priest
+pulit:pulit nounInflF ; ! a lock-up, a private room; a policeman
+jait:jait nounInflF ; ! caste, clan, class, kind, tribe
+raid:raid nounInflF ; ! place in India
+nongtung:nongtung nounInflF ; ! place in India
+sakhi:sakhi nounInflGD ; ! witness, evidence
+tyngka:tyngka nounInflF ; ! money, rupee
+burom:burom nounInflF ; !honor, glory
+shitom:shitom nounInflF ; ! trouble, pain, difficulty
+riti:riti nounInflF ; ! legal customs, established customs
+jowai:jowai nounInflGD ; ! a city called Jowai in India
+pynursla:pynursla nounInflF ; ! a city called pynursla in India
+thain:thain nounInflF ; ! district, direction
+kmen:kmen nounInflGD ; ! joy
+riew:riew nounInflGD ; ! a person (abbreviation of briew)
+bishar:bishar nounInflGD ; ! legal proceedings
+lait:lait nounInflGD ; ! a mistake
+ophis:ophis nounInflF ; ! office
+kynja:kynja nounInflF ; ! sort, kind, nature
+kot:kot nounInflF ; ! a paper, book, a yard
+hima:hima nounInflF ; ! kingdom, state
+tit:tit nounInflM ; ! a mushroom, a fungus
+jingjia:jingjia nounInflF ; !occurence
+aiñ:aiñ nounInflM ; !law, statute
+kynthei:kynthei nounInflF ; ! female
+Mukul:Mukul nounInflM ; ! the first name of the current chief minister in Meghalaya
+Sangma:Sangma nounInflM ; ! the last name of the current chief minister in Meghalaya
+tnad:tnad nounInflF ; ! seems to always introduce groups/committees, but not sure of exact definition
+daw:daw nounInflGD ; ! a cause, an excuse.
+kong:kong nounInflGD ; ! elder sibling
+kynhun:kynhun nounInflF ; ! a flock, a herd, a band, a group.
+dkhot:dkhot nounInflF ; ! a part, a piece, a member, a verse ; u meat used in sacrifice.
+daw:daw, nounInflGD ; ! a cause, an excuse.
+surok:surok nounInflF ; ! a road.
+sangma:sangma nounInflM ; ! Purno Agitok (P. A.) Sangma, a politician
+rukom:rukom nounInflF ; ! manner, custom, way.
+jingmut:jingmut nounInflF ; !designation, intention, meaning, mind, sense
+elekshon:elekshon nounInflF ; ! election
+imlang:imlang nounInflF ; ! society GOES WITH sahlang adjectivenounInflF imlang ka sahlang or ka imlang sahlang
+jaiñtia:jaiñtia nounInflF ; ! Jaintia people/hills
+kyrteng:kyrteng nounInflF ; ! a name.
+lympung:lympung nounInflF ; ! a stage
+rangbah:rangbah nounInflM ; ! a man, an elder
+trai:trai nounInflM ; ! lord, master, owner
+bhoi:bhoi nounInflF ; ! bhoi people, bhoi country
+hok:hok nounInflGD; ! right, justice, rigbteousness,
+ïaïong:ïaïong nounInflM ; ! april
+ïaiong:ïaiong nounInflM ; ! april
+iaiong:iaiong nounInflM ; ! april
+myntri:myntri nounInflGD ; !Minister
+thaiñ:thaiñ nounInflF ; ! district, direction
+bnai:bnai nounInflM ; ! moon, month
+ngut:ngut nounInflGD ; !people (only comes after numerical words)
+lad:lad nounInflM ; ! way, means, road
+kali:kali nounInflF ; ! a carriage
+tynrai:tynrai nounInflF ; ! bottom, origin, root, source
+khynnah:khynnah nounInflGD ; !child
+tylli:tylli nounInflGD ; !number (of things or animals)
+bor:bor nounInflF ; !power, influence, authority
+liang:liang nounInflF ; !side, party; plate
+samla:samla nounInflGD ; ! a youth
+tarik:tarik nounInflF ; !date
+Meghalaya:Meghalaya nounInflF ; !Meghalaya (state in India)
+ri:ri nounInflF ; ! a country, a province
+seng:seng nounInflF ; ! association, captial, club
+skul:skul nounInflF ; !School, chapel
+sorkar:sorkar nounInflF ; !Government
+jylla:jylla nounInflF ; !country, county, district, providence
+Khasi:Khasi nounInflM ; !Khasi
+Shillong:Shillong nounInflF ; !capitol city
+por:por nounInflF ; ! time, period; a small bird
+paid:paid nounInflM ; ! a crowd
+rynkew:rynkew nounInflF ; !dry land
+ryngkew:ryngkew nounInflF ; !dry land
+jhur:jhur nounInflM ; ! an herb, a vegetable
+speh:speh nounInflM ; ! a prick, a spike
+blei:blei nounInflM ; ! A man
+dngiem:dngiem nounInflM ; ! A noun 'bear'
+jingshai:jingshai nounInflF ; ! A noun 'light'
+ïing:ïing nounInflF ; ! A noun !house
+briw:briw nounInflGD ; ! A man, woman, person !can be masculine or feminine
+briew:briew nounInflGD ; ! a man, woman, person !can be masculine or feminine
+wait:wait nounInflF ; ! A noun
+maw:maw nounInflM ; ! A noun
+leilieh:leilieh nounInflF ; ! A noun
+ei-ei:ei-ei nounInflGD ; ! A noun !can be masculine or feminine
+bneng:bneng nounInflF ; ! heaven
+khyndew:khyndew nounInflF ; ! earth, land
+pyrthei:pyrthei nounInflGD ; ! earth, world !can be masculine or feminine
+dur:dur nounInflF ; ! form
+jingdum:jingdum nounInflF ; ! darkness
+khmat:khmat nounInflF ; ! face
+jingjylliew:jingjylliew nounInflF ; ! deep
+mynsiem:mynsiem nounInflM ; ! deep
+um:um nounInflF ; ! water
+sngi:sngi nounInflF ; ! day, sun
+miet:miet nounInflF ; ! night
+um-shit:um-shit nounInflF ; !soup
+kbeit:kbeit nounInflM ; !hawk
+juti: juti nounInflF; !shoe
+ksew:ksew nounInflGD ; !dog !can be masculine or feminine
+wah:wah nounInflF ; !river
+khlur:khlur nounInflM ; !star
+doh:doh nounInflF ; !flesh/meat
+khun:khun nounInflGD ; !child !can be masculine or feminine
+khubor:khubor nounInflF ; !news, tidings
+kjat:kjat nounInflF ; !foot/leg
+kpa:kpa nounInflM ; !father
+kmie:kmie nounInflF ; !mother
+lieng:lieng nounInflF ; !boat, ship, canoe
+khmut:khmut nounInflF ; !nose, tip
+step:step nounInflF ; !morning
+suiñ:suiñ nounInflF ; !sky, atmosphere
+lynti:lynti nounInflF ; !path, way; a trip
+bynta:bynta nounInflF ; ! a portion, a share, a lot
+bah:bah nounInflM ; ! an older brother (used for respect or vocative)
+prek:prek nounInflM ;
+lyntang:lyntang nounInflF ;
+jingthiah:jingthiah nounInflf ;
+miej:miej nounInflf ;
+shuki:shuki nounInflF ;
+sner:sner nounInflF ;
+khulom:khulom nounInflM ;
+khlieng:khlieng nounInflF ;
+skei:skei nounInflF ;
+syngkai:syngkai nounInflF ;
+kti:kti nounInflF ;
+jingbam:jingbam nounInflF ;
+jingkhang:jingkhang nounInflF ;
+umphniang:umphniang nounInflF ;
+snep:snep nounInflF ;
+bniat:bniat nounInflF ;
+lum:lum nounInflM ;
+shang:shang nounInflF ;
+shniuh:shniuh nounInflM ;
+khlieh:khlieh nounInflF ;
+ngap:ngap nounInflM ;
+khwai:khwai nounInflM ;
+shnong:shnong nounInflF ;
+kpu:kpu nounInflM ;
+para:para nounInflM ;
+nongkyndong:nongkyndong nounInflGD ; ! a villager, an out of the way villager
+kur:kur nounInflGD ;
+sier:sier nounInflF ;
+syiem:syiem nounInflM ;
+snem:snem nounInflF ;
+paralok:paralok nounInflM ;
+jaka:jaka nounInflF ; !place, room
+duriaw:duriaw nounInflF ; !sea
+symbai:symbai nounInflM ; ! a seed
+dieng:dieng nounInflGD ; !wood, tree
+diengsch:diengsch nounInflGD ; !?
+jaid:jaid nounInflF ; !clan, caste, kind
+
+LEXICON PersonalPronouns
+!!Singular
+nga%<prn%>%<pers%>%<p1%>%<sg%>:nga PartInfl;
+me%<prn%>%<pers%>%<p2%>%<sg%>%<m%>:me PartInfl;
+pha%<prn%>%<pers%>%<p2%>%<sg%>%<f%>:pha PartInfl;
+u%<prn%>%<pers%>%<p3%>%<sg%>%<m%>:u PartInfl;
+ka%<prn%>%<pers%>%<p3%>%<sg%>%<f%>:ka PartInfl;
+!!Plural
+ngi%<prn%>%<pers%>%<p1%>%<pl%>:ngi PartInfl;
+phi%<prn%>%<pers%>%<p2%>%<pl%>:phi PartInfl;
+ki%<prn%>%<pers%>%<p3%>%<pl%>:ki PartInfl;
+
+
+LEXICON RelativePronouns
+uba%<prn%>%<rel%>%<sg%>%<m%>:uba PartInfl ;
+kaba%<prn%>%<rel%>%<sg%>%<f%>:kaba PartInfl ;
+iba%<prn%>%<rel%>%<sg%>:iba PartInfl ;
+kiba%<prn%>%<rel%>%<pl%>:kiba PartInfl ;
+
+LEXICON ReflexivePossessivePronouns
+la%<prn%>%<refl%>%<poss%>:la Tags ;
+
+LEXICON InterrogativePronouns
+aiuh%<prn%>%<inter%>:aiuh Tags ; !what
+nano%<prn%>%<inter%>:nano Tags ; !what
+kano%<prn%>%<inter%>%<f%>%<sg%>:kano Tags ; !which
+kano%<prn%>%<inter%>%<GD%>%<pl%>:kino Tags ; !which
+uno%<prn%>%<inter%>%<m%>%<sg%>:uno Tags ; !which
+ei%<prn%>%<inter%>:ei Tags ; !what, who?
+kaei%<prn%>%<f%>%<inter%>:kaei Tags ; !what, who?
+kiei%<prn%>%<inter%>%<GD%>%<pl%>:kiei Tags ; !what, who?
+
+LEXICON Demonstratives
+! all possiblities are written out so that there is no confusion with the articles
+une%<m%>%<sg%>%<dem%>%<prox%>:une Tags ;
+kane%<f%>%<sg%>%<dem%>%<prox%>:kane Tags ;
+kine%<GD%>%<pl%>%<dem%>%<prox%>:kine Tags ;
+uta%<m%>%<sg%>%<dem%>%<dist%>%<osfar%>:uta Tags ;
+kata%<f%>%<sg%>%<dem%>%<dist%>%<osfar%>:kata Tags ;
+kita%<GD%>%<pl%>%<dem%>%<dist%>%<osfar%>:kita Tags ;
+uto%<m%>%<sg%>%<dem%>%<dist%>%<near%>:uto Tags ;
+kato%<f%>%<sg%>%<dem%>%<dist%>%<near%>:kato Tags ;
+kito%<GD%>%<pl%>%<dem%>%<dist%>%<near%>:kito Tags ;
+utai%<m%>%<sg%>%<dem%>%<dist%>%<far%>:utai Tags ;
+katai%<f%>%<sg%>%<dem%>%<dist%>%<far%>:katai Tags ;
+kitai%<GD%>%<pl%>%<dem%>%<dist%>%<far%>:kitai Tags ;
+utei%<m%>%<sg%>%<dem%>%<dist%>%<up%>:utei Tags ;
+katei%<f%>%<sg%>%<dem%>%<dist%>%<up%>:katei Tags ;
+kitei%<GD%>%<pl%>%<dem%>%<dist%>%<up%>:kitei Tags ;
+LEXICON Articles
+article%<art%>%<m%>%<sg%>:u Tags ;
+article%<art%>%<f%>%<sg%>:ka Tags ;
+article%<art%>%<GD%>%<pl%>:ki Tags ;
+i%<dim%>%<GD%>:i Tags ;
+
+LEXICON Prepositions
+
+shaphang:shaphang prepInfl ; ! towards, in the direction of; with reference to
+hapdeng:hapdeng prepInfl ; ! among
+jong:jong prepInfl ; !of, pertaining to
+ha:ha prepInfl ; !in, to, into
+sha:sha prepInfl ; ! to, towards
+ia:ia prepInfl ;
+ïa:ïa prepInfl ;
+ya:ya prepInfl ;
+na:na prepInfl ; ! from
+da:da prepInfl ;
+halor:halor prepInfl ; !over
+khlem:khlem prepInfl ; !without
+hapoh:hapoh prepInfl ; !under, within
+naduh:naduh prepInfl ; !since, from
+nadang:nadang prepInfl ; !since, from
+lyngba:lyngba prepInfl ; ! through
+pyrshah:pyrshah prepInfl ; ! against, opposite to
+
+!verbroots
+LEXICON Verbs
+
+jam:jam VerbInflI ; ! to make a noise; to step, to stride
+pyllait:pyllait VerbInflT ; ! to liberate, to set free
+bat:bat VerbInflT ; ! to hold, catch hold of, grasp
+thung:thung VerbInflT ; ! to plant, cultivate; to appoint, elect
+tulop:tulop VerbInflT ; ! to summon
+ialam:ialam VerbInflT ; ! lead
+shem:shem VerbInflT ; ! to find, meet, discover
+siew:siew VerbInflI ; ! to pay
+san:san VerbInflI ; ! to grow up
+khreh:khreh VerbInflT ; ! to prepare, to be ready
+nang:nang VerbInflT ; ! to know, to be able
+ïap:ïap VerbInflI ; ! to die, to lose
+thep:thep VerbInflT ; ! to stow, to put in
+ap:ap VerbInflT ; ! to wait, to stay for
+duh:duh VerbInflI ; ! to lose, forfeit
+pan:pan VerbInflT ; ! to ask, demand
+wad:wad VerbInflT ; ! to seek, search, look for
+sngewbha:sngewbha VerbInflI ; ! to be pleased
+kulur:kulur VerbInflI ; ! to promise
+mihkhmat:mihkhmat VerbInflI ; ! to represent
+ïashim:ïashim VerbInflT ; ! [unsure of definition]
+ïashim:ïashim VerbInflI ; ! [unsure of definition]
+khang:khang VerbInflT ; ! to shut, hinder, forbid, prohibit
+par:par VerbInflI ; ! to creep, to crawl
+bynrap:bynrap VerbInflT ; ! to side with, to place together with
+rep:rep VerbInflT ; ! to cultivate, to plant
+bna:bna VerbInflI ; ! to hear, to be informed
+sngewbha:sngewbha VerbinflI ; ! to be pleased
+kynnoh:kynnoh VerbInflT ; ! to pronounce; to blame, find fault with
+kyrshan:kyrshan VerbInflT ; ! uphold, protect, maintain, patronize
+kynthoh:kynthoh VerbInflT ; ! to make a blotch or mark, to criticise ; to comment on
+hiar:hiar VerbInflT ; ! to descend
+rung:rung VerbInflT ; ! to enter
+shai:shai VerbInflI ; ! to become clear
+roi:roi VerbInflI ; ! to increase, to make progress
+poh:poh VerbInflI ; ! to smoke, to be exposed to smoke or fire
+pang:pang VerbInflI ; ! to become ill
+kem:kem VerbInflT ; ! to arrest, to sieze; to wrestle; to resemble
+pdiang:pdiang VerbInflT ; ! to receive, to accept
+ïalehkai:ïalehkai VerbInflI ; ! to play
+rakhe:rakhe VerbInflT ; ! to observe
+beh:beh VerbInflT ; ! to send away, to expel, to pursue, to seek
+pyrshang:pyrshang VerbInflT ; ! to attempt, to try.
+kit:kit VerbInflT ; ! to carry on the back with a head strap; to bear; to be responsible for
+kit:kit VerbInflI ; ! to carry on the back with a head strap; to bear; to be responsible for
+plie:plie VerbInflT ; ! to open
+jia:jia VerbInflT ; ! to become, befall, come up, happen, occur
+kyrpad:kyrpad VerbInflI ; ! to pray, beg, supplicate
+jop:jop VerbInflT ; ! to conquer
+pud:pud VerbInflT ; ! to omit
+thoh:thoh VerbInflI ; ! to cut trees, to write, to make a mark; to take with the tip of a finger
+kut:kut VerbInflI ; ! to come to an end, to resolve, to agree
+sngewthuh:sngewthuh VerbInflT ; ! to understand
+nam:nam VerbInflI ; ! to portend, to be spoken well of by the people, to request earnestly, to suplicate
+man:man VerbInflT ; ! be, become, grow, submit, thrive
+palat:palat VerbInflT ; ! to exceed, to trespass; passed
+burom:burom VerbInflT ; ! to honor
+phai:phai VerbInflI ; ! to turn
+kdew:kdew VerbInflT ; ! to point out or direct (with the hand)
+ïai:ïai VerbInflT ; ! continue to
+thong:thong VerbInflI ; ! to bet, to offer money
+dawa:dawa VerbInflT ; ! to claim
+kmen:kmen VerbInflI ; !rejoice
+pynban:pynban VerbInflT ; ! to add to, to give more
+shna:shna VerbInflT ; ! to make, construct, build
+riew:riew VerbInflI ; ! to produce a sound
+ïarap:ïarap VerbInflT ; ! to help, assist
+ïadei:ïadei VerbInflI ; ! agree, appertain, be of one mind, be related to, concern, coincide, contact, harmonize, hit the mark, tally
+ïadei:ïadei VerbInflT ; ! agree, appertain, be of one mind, be related to, concern, coincide, contact, harmonize, hit the mark, tally
+im:im VerbInflI ; ! to live, be alive, be safe; to be unripe, green, not well-cooked
+lait:lait VerbInflI ; ! to be free, escape
+treikam:treikam VerbInflI ; ! to work
+lap:lap VerbInflT ; ! to overtake
+kot:kot VerbInflT ; ! to reach
+ïakhun:ïakhun VerbInflT ; ! bend, fight, protect
+ktah:ktah VerbInflT ; ! to touch
+poi:poi VerbInflT; ! to reach, to arrive at
+rai:rai VerbInflI ; ! to decide, to pass orders
+donkam:donkam VerbInflT ; ! to need, to have business, to be occupied
+donkam:donkam VerbInflI ; ! to need, to have business, to be occupied
+dep:dep VerbInflI ; !  to finish
+dep:dep VerbInflT ; !  to finish
+phah:phah VerbInflT ; ! to send, dispatch, order for
+beit:beit VerbInflI ; ! to agree.
+peit:peit VerbInflT ; ! to look at, to gaze ; to be awake
+peit:peit VerbInflI ; ! to look at, to gaze ; to be awake
+pyndonkam:pyndonkam VerbInflI ; ! use
+lada:lada VerbInflT ; !protect, defend
+ioh:ioh VerbInflI ; !get, gain, obtain, have, recieve
+shim:shim VerbInflT ; ! to take, to receive
+lang:lang VerbInflI ; ! to congeal, to solidify
+ri:ri VerbInflT ; ! to keep, to take care of
+seng:seng VerbInflI ; ! to establish a society
+wan:wan VerbInflT ; ! to come
+ïoh:ïoh VerbInflT ; !get, gain, obtain, have, receive
+noh:noh VerbInflT ; ! to throw into
+pat:pat VerbInflI ; ! to fall
+lah:lah VerbInflI ; !can, able, succeed
+lah:lah VerbInflT ; !can, able, succeed
+bah:bah VerbInflT ; ! to carry on one's back, to bear
+kam:kam VerbInflT ; !stride, pass over, claim
+don:don VerbInflI ; !is, has, exists
+sei:sei VerbInflT ; !produce, pull out, bring forth
+long%<vbser%>:long Tags ; ! be
+pynlong%<vbser%>:pynlong Tags ; !cause to exist, happen, be
+ialang:ialang VerbInflI ; ! gather together
+bam:bam VerbInflT ; ! eat t or not
+bam:bam VerbInflI ; ! eat t or not
+kyrhuh:kyrhuh VerbInflI ; ! roar not
+ba:ba VerbInflT ; ! light
+tip:tip VerbInflT ; ! know
+tip:tip VerbInflI ; ! know
+dei:dei VerbInflT ; ! have, ought, should
+sait:sait VerbInflT ; ! wash
+leit:leit VerbInflT ; ! go
+thaw:thaw VerbInflT ; ! create
+khih:khih VerbInflT ; ! move
+ong:ong VerbInflT ; ! say
+iohi:iohi VerbInflT ; ! see
+pyniakhlad:pyniakhlad VerbInflT ; ! separate
+pyniakhlad:pyniakhlad VerbInflI ; ! separate
+khot:khot VerbInflT ; ! call (name)
+phet:phet VerbInflI ; !run
+ale:ale VerbInflI; !come
+leit:leit VerbInflT ; !go
+leit:leit VerbInflI ; !go
+iap:iap VerbInflI ; !die
+iap:iap VerbInflT ; !lose
+pyrkhat:pyrkhat VerbInflT ; ! think
+pyrkhat:pyrkhat VerbInflI ; ! think
+iohthiah:iohthiah VerbInflI ; !sleep
+kyrsiew:kyrsiew VerbInflT ; ! awaken
+kyrsiew:kyrsiew VerbInflI ; ! awaken
+ioh-i:ioh-i VerbInflT ; !see
+ioh-i:ioh-i VerbInflI ; !see
+thaw:thaw VerbInflT ; !make
+buhrih:buhrih VerbInflT ; !hide
+buhrih:buhrih VerbInflI ; !hide
+buh:buh VerbInflT ; !put
+ai:ai VerbInflT ; !give
+kan:kan VerbInflT ; !reserve, suppress, hold, keep silent
+pynkhlad:pynkhlad VerbInflT ; !cause to separate
+pynkhlad:pynkhlad VerbInflI ; !cause to separate
+keiñ:keiñ VerbInflI ; ! that is it (verb)
+iehnoh:iehnoh VerbInflT ; !leave
+thiah:thiah VerbInflI ; !sleep
+kyrsiew:kyrsiew VerbInflT ; ! awaken
+shong:shong VerbInflI ; !sit
+pynbha:pynbha VerbInflT ; ! to better, correct, improve, make something good, mend, perfect
+dei:dei VerbInflT ; !own
+bam:bam VerbInflT ; !eat
+bit:bit VerbInflT ; !resemble
+sngew:sngew VerbInflT ; !hear
+kylli:kylli VerbInflT ; ! ask for
+ai:ai VerbInflT ; !give
+isih:isih VerbInflT ; !be averse to
+thie:thie VerbTransitiveInf ; ! answer
+kwah:kwah VerbInflT ; !want
+ryngkang:ryngkang VerbInflI ; !jump
+behmrad:behmrad VerbInflT ; !hunt
+behmrad:behmrad VerbInflI ; !hunt
+rykhie:rykhie VerbInflI ; !laugh
+bet:bet VerbInflT ; !sow
+sangeh:sangeh VerbInflT ; !stop
+map:map VerbInflT ; !forgive
+rah:rah VerbInflT ; !carry
+lehrain:lehrain VerbInflT ; !be ashamed
+lehrain:lehrain VerbInflI ; !be ashamed
+trei:trei VerbInflI ; !work
+kynkhlek:kynkhlek VerbInflT ; !flourish
+iathuh:iathuh VerbInflI ; !describe
+oh-shrong:oh-shrong VerbInflT ; !carve
+ngen:ngen VerbInflI ; !vanish
+iam:iam VerbInflI; !cry
+khulwia:khulwia VerbInflT; !waste
+kren-khraw:kren-khraw VerbInflT; !boast
+kren-khraw:kren-khraw VerbInflI; !boast
+paw:paw VerbInflI; ! appear
+sah:sah VerbInflI; !remain
+khluit:khluit VerbInflT; !burn
+khluit:khluit VerbInflI; !burn
+leit-kai:leit-kai VerbInflT; !visit
+leit-kai:leit-kai VerbInflI; !visit
+kha:kha VerbInflT; !give birth
+kad:kad VerbInflT; ! tear
+isat:isat VerbInflI; !be disgusting
+bud:bud VerbInflT; !follow
+pongpet:pongpet VerbInflT; !fail
+pongpet:pongpet VerbInflI; !fail
+jliah:jliah VerbInflT; !lick
+khih:khih VerbInflT; !shake
+khih:khih VerbInflI; !shake
+pynskhen:pynskhen VerbInflT; !fix
+ieng:ieng VerbInflI; !rise
+bong-knang:bong-knang VerbInflI; !be skinnny
+kylla:kylla VerbInflT; !change
+kylla:kylla VerbInflI; !change
+jngi:jngi VerbInflI; !swim
+laitim:laitim VerbInflT; !escape
+laitim:laitim VerbInflI; !escape
+bakla:bakla VerbInflT; !err
+wallam:wallam VerbInflI; !bring
+jied:jied VerbInflT; !choose
+lehkai:lehkai VerbInflT; !play
+shad:shad VerbInflI; !dance
+lebrit:lebrit VerbInflI ; !be humble
+da:da VerbInflT ; !protect
+mih:mih VerbInflT ; !rise, issue
+mih:mih VerbInflI ; !rise, issue
+suda%<vblex%>%<pass%>%<tv%>:suda Tags ; ! be empty
+leh:leh VerbInflI ; ! to do, to perform, to act
+leh:leh VerbInflT ; ! to do, to perform, to act
+sdang:sdang VerbInflT ; ! to commence, to begin
+sdang:sdang VerbInflI ; ! to commence, to begin
+shah:shah VerbInflT ; ! to suffer, endure, permit; side with; be due from
+bishar:bishar VerbInflT ; ! to judge
+kynthup:kynthup VerbInflT ; ! to embrace, clasp, comprise
+hap:hap VerbInflT ; ! to fall, to come off, to tally ; to agree.
+hap:hap VerbInflI ; ! to fall, to come off, to tally ; to agree.
+thaiñ:thaiñ VerbInflT ; ! to weave, knit, plait
+ïaid:ïaid VerbInflT ; ! to walk, go, proceed
+ïaid:ïaid VerbInflI ; ! to walk, go, proceed
+ïalang:ïalang VerbInflI ; ! gather together
+ïalam:ïalam VerbInflT ; ! lead
+lad:lad VerbInflI ; ! to be over-careful about one's personal toilette, to rub with the sole of the foot in token of contempt.
+hikai:hikai VerbInflT ; ! to teach
+hikai:hikai VerbInflI ; ! to teach
+wanrah:wanrah VerbInflI ; ! to protest
+wanrah:wanrah VerbInflT ; ! to protest
+kyntu:kyntu VerbInflT ; ! to urge, persuade
+kyrteng:kyrteng VerbInflT ; ! to name
+ïathuh:ïathuh VerbInflT ; ! to tell, to relate.
+kyntiew:kyntiew VerbInflT ; ! to lift, to impose, to promote.
+pisa:pisa VerbInflI ; ! to feel uneasy, to fidget, to be restless
+pule:pule VerbInflT ; ! to read
+pule:pule VerbInflI ; ! to read
+kren:kren VerbInflI ; !  to speak
+ïohi:ïohi VerbInflI ; !  be aware, get a sight, see, contemplate
+ïohi:ïohi VerbInflT ; !  be aware, get a sight, see, contemplate
+khmih:khmih VerbInflT ; ! to look, to behold
+juh:juh VerbInflI ; ! to like, to get tamed; to feel quite at home
+sem:sem VerbInflI ; ! to wear a cloth apron
+synshar:synshar VerbInflT ; ! to rule or govern
+
+! advroot
+LEXICON Adverb
+
+kylleng:kylleng AdverbInfl; ! everywhere
+khia:khia AdverbInfl ; ! with a revengeful spirit
+dak:dak AdverbInfl ; ! at once, immediately
+katto:katto AdverbInfl ; ! that much
+kumne:kumne AdverbInfl ; ! thus, like this
+khraw:khraw AdverbInfl ; ! proudly, arrogantly
+shen:shen AdverbInfl ; ! before time, immediately, presently, soon; staggering
+katne:katne AdverbInfl ; ! this much
+hato:hato AdverbInfl ; ! then
+hiar:hiar AdverbInfl ; ! down
+pateng:pateng AdverbInfl ; ! indirectly, through another source
+shakhmat:shakhmat AdverbInfl ; ! [unsure of definition]
+katkum:katkum AdverbInfl ; ! according, as much as
+hynne:hynne AdverbInfl ; ! a short time ago ; after the lapse of some hours.
+eh:eh AdverbInfl ; ! very, exceedingly
+lawei:lawei AdverbInfl ; ! hereafter
+hangne:hangne AdverbInfl ; ! here
+kajuh:kajuh AdverbInfl ; ! equally
+kumjuh:kumjuh AdverbInfl ; ! the same, all the same
+man:man AdverbInfl ; !obstinately
+shuwa:shuwa AdverbInfl ; ! first, before, previously, beforehand
+kyrpang:kyrpang AdverbInfl ; ! aside, separately ;
+pynban:pynban AdverbInfl ; !nevertheless, still but
+nalor:nalor AdverbInfl ; ! from above, externally; besides
+lei:lei AdverbInfl ; ! why? For what reason? 
+lap:lap AdverbInfl ; !in haste, inconsiderately
+satia:satia AdverbInfl ; ! at all
+eh:eh AdverbInfl ; ! very, exceedingly
+khamtam:khamtam AdverbInfl ; ! above, chiefly, particularly, principally
+shisha:shisha AdverbInfl ; ! indeed, of course
+kumno:kumno AdverbInfl ; ! how, by what means
+hadien:hadien AdverbInfl ; ! after, afterwards, behind
+ju:ju AdverbInfl ; !in the habit of, used to
+jiw:jiw AdverbInfl ; !in the habit of, used to
+biang:biang AdverbInfl ; ! again, a second time; in peace
+kumba:kumba AdverbInfl ; ! as if, about
+wat:wat AdverbInfl ; !even
+khnang:khnang AdverbInfl ; !purposefully, intentionally
+kynthup:kynthup AdverbInfl ; !modestly, well covered
+ryngkat:ryngkat AdverbInfl; ! accidentally, by chance
+shu:shu AdverbInfl; !just, only
+haba:haba AdverbInfl; !when, since
+haduh:haduh AdverbInfl; !up to, as far as, until
+ym:ym AdverbInfl; !not
+shuh:shuh AdverbInfl; ! again, furthermore
+tang:tang AdverbInfl ; !only
+noh:noh AdverbInfl ; ! away
+mynta:mynta AdverbInfl ; ! at present, now
+pat:pat AdverbInfl ; ! again
+ruh:ruh AdverbInfl ; ! also
+bha:bha AdverbInfl ; !well
+te:te AdverbInfl ; ! then
+stet:stet AdverbInfl ; !fast, quickly
+lajan:lajan AdverbInfl ; !nearly, almost
+kumta:kumta AdverbInfl ; !like that, so, accordingly
+hooid:hooid AdverbInfl ; !yes
+kum:kum AdverbInfl ; ! like, as, unintentionally
+dep:dep AdverbInfl ; ! in full, all
+beit:beit AdverbInfl ; !uprightly
+lem:lem AdverbInfl ; ! together, along with,
+bniah:bniah AdverbInfl ; ! fastidiously, carefully,
+katba:katba AdverbInfl ; ! while, as much as
+kat:kat AdverbInfl ; ! as much as
+shisha:shisha AdverbInfl ; !indeed, of course
+shisien:shisien AdverbInfl ; ! once, at one time
+
+
+! adjroot
+LEXICON Adjectives
+
+khia:khia AdjInfl ; ! heavy 
+kongsan:kongsan AdjInfl ; ! chief, greatest
+shisha:shisha AdjInfl ; ! true, real
+kai:kai AdjInfl ; ! for pleasure, for fun
+stad:stad AdjInfl ; ! wise, clever, learned
+runar:runar AdjInfl ; ! cruel, wicked
+riewnar:riewnar AdjInfl ; ! cruel, wicked
+khraw:khraw AdjInfl ; ! great, big, large
+lut:lut AdjInfl ; ! spent, exhausted
+kloi:kloi AdjInfl ; ! ready
+lajong:lajong AdjInfl ; ! one's own
+eh:eh AdjInfl ; !hard, difficult, unrelenting
+hajar:hajar AdjInfl ; ! a thousand
+kajuh:kajuh AdjInfl ; ! ditto, the same
+heh:heh AdjInfl ; !big large, great
+man:man AdjInfl ; !each, every, everyone 
+ma:ma AdjInfl ; !dangerous, frightful
+dor:dor AdjInfl ; !distorted, curved
+kyrpang:kyrpang AdjInfl ; !separate, set apart, particular
+kmen:kmen AdjInfl ; !joyful, rejoicing
+pynban:pynban AdjInfl ; ! still, nevertheless
+sniew:sniew AdjInfl ; ! bad, evil, wicked
+ik:ik AdjInfl ; ! simultaneously up
+suk:suk AdjInfl ; ! happy, contented
+shi:shi AdjInfl ; ! one
+lai:lai AdjInfl ; ! three
+nyngkong:nyngkong AdjInfl ; !first, beginning
+sahlang:sahlang AdjInfl ; ! society GOES WITH imlang  
+uwei:uwei AdjInfl ; ! one
+jing:jing AdjInfl ; ! a. supreme {colloq.), beyond comprehension
+beit:beit AdjInfl ; ! straight, right
+jur:jur AdjInfl ; !serious, strong
+bapher:bapher AdjInfl ; !different, distinct
+barim:barim AdjInfl ; ! aged
+tylli:tylli AdjInfl ; !solid
+hi:hi AdjInfl ; !self, alone ! also used to soften a sentence
+bun:bun AdjInfl ; !many, much
+lang:lang AdjInfl ; ! together
+baroh:baroh AdjInfl ; ! all, every
+kiwei:kiwei AdjInfl ; ! ones
+mynnyngkong:mynnyngkong AdjInfl ; ! beginning
+seisoh:seisoh AdjInfl ; !productive, fruitful
+babha:babha AdjInfl ;
+barit:barit AdjInfl ;
+dei:dei AdjInfl ;
+slem:slem AdjInfl ; !long, late
+jlan:jlan AdjInfl ; !long, lengthy, wide
+lyngkot:lyngkot AdjInfl ; !short
+thymmai:thymmai AdjInfl ; !new 
+kawei:kawei AdjInfl ; !one, certain 
+ar:ar AdjInfl ; ! two 
+bakhraw:bakhraw AdjInfl ;
+saw:saw AdjInfl ;
+jyrngam:jyrngam AdjInfl ;
+jngum:jngum AdjInfl ;
+jar:jar AdjInfl ;
+bakhraw:bakhraw AdjInfl ;
+pasiang:pasiang AdjInfl ;
+bieit:bieit AdjInfl ;
+kor:kor AdjInfl ;
+sbun:sbun AdjInfl ;
+pring:pring AdjInfl ;
+bong-knang:bong-knang AdjInfl ;
+
+LEXICON Particles
+la%<past%>:la Tags ;
+yn%<fut%>:yn Tags ;
+ban%<inf%>:ban Tags ;
+da%<cont%>:da Tags ;
+dang%<cont%>:dang Tags ;
+nang%<cont%>:nang Tags ;
+dei%<inf%>%<prop%>:dei Tags ;
+ia%<dirObj%>:ia Tags ;
+tam%<sup%>:tam Tags ;
+kham%<comp%>:kham Tags ;
+sa%<cert%>:sa Tags ;
+ym%<neg%>:ym Tags ;
+nym%<fut%>%<neg%>:nym Tags ; !will not
+ïalade%<prn%>:ïalade Tags; ! self
+shym%<negInd%>:shym Tags ;
+to%<imp%>:to Tags ; ! let
+shuh%<imp%>:shuh Tags ; ! get away, get aside, wait!
+men%<pers%>%<p2%>%<sg%>%<GD%>%<fut%>%<vbser%>:men Tags ; ! they will
+kin%<pers%>%<p3%>%<pl%>%<GD%>%<fut%>%<vbser%>:kin Tags ; ! they will
+kan%<pers%>%<p3%>%<sg%>%<f%>%<fut%>%<vbser%>:kan Tags ; !she/it will
+un%<pers%>%<p3%>%<sg%>%<m%>%<fut%>%<vbser%>:un Tags ; !he will
+ngin%<pers%>%<p1%>%<pl%>%<m%>%<fut%>%<vbser%>:ngin Tags ; !we will
+wat%<imp%>%<neg%>:wat Tags ; !do not
+ngim%<pers%>%<p1%>%<sg%>%<GD%>%<neg%>:ngim Tags ; ! I ... not
+kim%<pers%>%<p3%>%<sg%>%<GD%>%<neg%>:kim Tags ; !he/she... not
+kim%<pers%>%<p3%>%<pl%>%<GD%>%<neg%>:kim Tags ; ! they... not
+bym%<conj%>%<neg%>%<vbser%>:bym Tags ; ! that is not, because it is not
+
+!I believe any of these can take affix la
+LEXICON Conjunctions
+bad:bad CooConjunctionInfl ; ! and
+ba%<coocnj%>:ba PartInfl ; ! that, for, inasmuch, since
+hinrei:hinrei ConjunctionInfl;
+hynrei:hynrei ConjunctionInfl ;
+jaid:jaid ConjunctionInfl ; !since, seeing that ! comes before ia or ba
+ne:ne ConjunctionInfl ; !or
+namar:namar ConjunctionInfl ; !because, for
+naba:naba ConjunctionInfl ; ! for, because
+
+LEXICON NonKhasiWordsInCorpus
+chief:chief nonKhasiInfl ;
+BJP:BJP nonKhasiInfl ; !Bharatiya Janata Party
+EVM:EVM nonKhasiInfl ; !Bharatiya Janata Party
+UDP:UDP nonKhasiInfl ;
+committee:committee nonKhasiInfl ; 
+district:district nonKhasiInfl ;
+april:april nonKhasiInfl ;
+MLA:MLA nonKhasiInfl ; !Meghalaya Legislative Assembly
+India:India nonKhasiInfl ;
+president:president nonKhasiInfl ;
+school:school nonKhasiInfl ;
+secretary:secretary nonKhasiInfl ;
+hills:hills nonKhasiInfl ;
+Dr:Dr nonKhasiInfl ;
+West:West nonKhasiInfl ;
+East:East nonKhasiInfl ;
+a:a nonKhasiInfl ;
+b:b nonKhasiInfl ;
+c:c nonKhasiInfl ;
+d:d nonKhasiInfl ;
+e:e nonKhasiInfl ;
+f:f nonKhasiInfl ;
+g:g nonKhasiInfl ;
+h:h nonKhasiInfl ;
+i:i nonKhasiInfl ;
+j:j nonKhasiInfl ;
+k:k nonKhasiInfl ;
+l:l nonKhasiInfl ;
+m:m nonKhasiInfl ;
+n:n nonKhasiInfl ;
+o:o nonKhasiInfl ;
+p:p nonKhasiInfl ;
+q:q nonKhasiInfl ;
+r:r nonKhasiInfl ;
+s:s nonKhasiInfl ;
+t:t nonKhasiInfl ;
+u:u nonKhasiInfl ;
+v:v nonKhasiInfl ;
+w:w nonKhasiInfl ;
+x:x nonKhasiInfl ;
+y:y nonKhasiInfl ;
+z:z nonKhasiInfl ;
+ñ:ñ nonKhasiInfl ;
+ï:ï nonKhasiInfl ;
+of:of nonKhasiInfl ;
+party:party nonKhasiInfl ;
+SSA:SSA nonKhasiInfl ;
+unit:unit nonKhasiInfl ;
+congress:congress nonKhasiInfl ;
+election:election nonKhasiInfl ;
+general:general nonKhasiInfl ;
+association:association nonKhasiInfl ;
+secondary:secondary nonKhasiInfl ;
+sports:sports nonKhasiInfl ;
+sport:sport nonKhasiInfl ;
+police:police nonKhasiInfl ;
+officer:officer nonKhasiInfl ;
+station:station nonKhasiInfl ;
+MP:MP nonKhasiInfl ;
+block:block nonKhasiInfl ;
+court:court nonKhasiInfl ;
+north:north nonKhasiInfl ;
+vote:vote nonKhasiInfl ;
+constituency:constituency nonKhasiInfl ;
+meet:meet nonKhasiInfl ;
+meeting:meeting nonKhasiInfl ;
+day:day nonKhasiInfl ;
+national:national nonKhasiInfl ;
+circle:circle nonKhasiInfl ;
+good:good nonKhasiInfl ;
+upper:upper nonKhasiInfl ;
+be:be nonKhasiInfl ;
+college:college nonKhasiInfl ;
+commission:commission nonKhasiInfl ;
+KSU:KSU nonKhasiInfl;
+director:director nonKhasiInfl;
+digital:digital nonKhasiInfl;
+HSRP:HSRP nonKhasiInfl;
+FKJGP:FKJGP nonKhasiInfl;
+mobile:mobile nonKhasiInfl ;
+central:central nonKhasiInfl ;
+Bangladesh:Bangladesh nonKhasiInfl ;
+municipal:municipal nonKhasiInfl ;
+executive:executive nonKhasiInfl ;
+st:st nonKhasiInfl ;
+inter:inter nonKhasiInfl ;
+MDC:MDC nonKhasiInfl ;
+education:education nonKhasiInfl ;
+NPP:NPP nonKhasiInfl ;
+RBYF:RBYF nonKhasiInfl ;
+eden:eden nonKhasiInfl ; ! IE garden of eden
+
+
+
+
+LEXICON Prefixes
+
+%[%-abs%]:jing Verbs ;
+%[%-abs%]:jing Adjectives ;
+%[%-nmz%]:kaba%  Verbs ;
+%[%-nmz%]:kaba%  Adjectives ;
+%[%-nmz%]:kaba%  Adverb ;
+%[%-nmz%]:myn Verbs ; !myn+tuh(to steal) = thief
+%[%-nmz%]:nong Verbs ; !nong+(to steal) = thief
+%[%-prog%]:nang Verbs ;
+%[%-prog%]:iai- Verbs ;
+%[%-prog%]:iai%  Verbs ;
+%[%-futAsp%]:la NounRoot ;
+%[%-pastAsp%]:myn Adverb ;
+%[%-caus%]:pyn Verbs ; !cause to (causative)
+%[%-emph%]:ma PersonalPronouns ; !emphasis (it is I/you)
+%[%-adjize%]:ba Adverb ; !forms an adjective
+%[%-adjize%]:ba NounRoot ; !forms an adjective
+%[%-adjize%]:ba Prepositions ; !forms an adjective
+
+LEXICON Punctuation
+
+%.%<sent%>:%. # ;
+%.%.%<sent%>:%.%. # ;
+%.%.%.%<sent%>:%.%.%. # ;
+%;%<sent%>:%; # ;
+%:%<sent%>:%: # ;
+%!%<sent%>:%! # ;
+%-%<guio%>:%- # ;
+%—%<guio%>:%— # ;
+,%<cm%>:, # ;
+%?%<sent%>:%? # ;
+%'%<apos%>:%' # ;
+%"%<quot%>:%" # ;
+%«%<lquot%>:%« # ;
+%»%<rquot%>:%» # ;
+%”%<rquot%>:%” # ;
+%“%<lquot%>:%“ # ;
+%(%<lpar%>:%( # ;
+%]%<rpar%>:%] # ;
+%[%<lpar%>:%[ # ;
+%)%<rpar%>:%) # ;
+%\%<sent%>:%\ # ;
+%/%<sent%>:%/ # ;
+
+
+
+! Resources:
+! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Lexicon
+! http://wiki.apertium.org/wiki/Lttoolbox_and_lexc
+! http://wiki.apertium.org/wiki/Apertium-specific_conventions_for_lexc
+! https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome
+! http://hfst.sourceforge.net/
+! http://www.cis.upenn.edu/~cis639/docs/lexc.html
+! http://wiki.apertium.org/wiki/Hfst

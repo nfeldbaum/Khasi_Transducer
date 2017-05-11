@@ -1,0 +1,8 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+srcdir=${prefix}/share/apertium/apertium-kha
+
+Name: apertium-kha
+Description: Finite-state morphological transducer and constraint grammar for Khasi 
+Version: 0.1.0
+

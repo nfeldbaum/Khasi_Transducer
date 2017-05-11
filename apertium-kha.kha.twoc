@@ -1,0 +1,40 @@
+Alphabet
+
+ %[%-abs%]:0
+ %[%+abs%]:0
+ %[%-nmz%]:0
+ %[%+nmz%]:0
+ %[%-prog%]:0
+ %[%+prog%]:0
+ %[%+futAsp%]:0
+ %[%-futAsp%]:0
+ %[%+pastAsp%]:0
+ %[%-pastAsp%]:0
+ %[%+caus%]:0
+ %[%-caus%]:0
+ %[%+emph%]:0
+ %[%-emph%]:0
+ %[%+adjize%]:0
+ %[%-adjize%]:0
+
+;
+
+Rules
+
+"Remove paths without matching prefix feature"
+Fx:0 /<= _ ;
+   except
+       _ :* Fy:0 ;
+   where Fx in ( %[%-abs%] %[%-nmz%] %[%-prog%] %[%-futAsp%] %[%-pastAsp%] %[%-caus%] %[%-emph%] %[%-adjize%] )
+         Fy in ( %[%+abs%] %[%+nmz%] %[%+prog%] %[%+futAsp%] %[%+pastAsp%] %[%+caus%] %[%+emph%] %[%+adjize%] )
+   matched ;
+
+
+"Remove paths without matching prefix feature in generation"
+Fx:0 /<= _ ;
+   except
+       Fy:0 :* _ ;
+   where Fy in ( %[%-abs%] %[%-nmz%] %[%-prog%] %[%-futAsp%] %[%-pastAsp%] %[%-caus%] %[%-emph%] %[%-adjize%] )
+         Fx in ( %[%+abs%] %[%+nmz%] %[%+prog%] %[%+futAsp%] %[%+pastAsp%] %[%+caus%] %[%+emph%] %[%+adjize%] )
+   matched ; 
+

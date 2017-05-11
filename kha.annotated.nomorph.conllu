@@ -1,0 +1,279 @@
+# sent_id = prefix:1:0
+# text = Ha kaba mynnyngkong U Blei u la thaw ia ka bneng bad ia ka khyndew.
+1	Ha	_	_	_	_	2	case	_	_
+2	kaba mynnyngkong	_	_	_	_	7	obl	_	_
+3	U	_	_	_	_	4	det	_	_
+4	Blei	_	_	_	_	7	nsubj	_	_
+5	u	_	_	_	_	4	aux	_	_
+6	la	_	_	_	_	7	aux	_	_
+7	thaw	_	_	_	_	0	root	_	_
+8	ia	_	_	_	_	10	case	_	_
+9	ka	_	_	_	_	10	det	_	_
+10	bneng	_	_	_	_	7	obj	_	_
+11	bad	_	_	_	_	14	cc	_	_
+12	ia	_	_	_	_	14	case	_	_
+13	ka	_	_	_	_	14	det	_	_
+14	khyndew	_	_	_	_	7	obj	_	_
+15	.	_	_	_	_	7	punct	_	_
+
+# sent_id = prefix:2:30
+# text = Bad ka pyrthei ka la long bakhlem dur bad kaba suda, bad ka jingdum ka la long halor ka khmat ka jingjylliew, bad U Mynsiem U Blei u da khih halor ki um.
+1	Bad	_	_	_	_	6	cc	_	_
+2	ka	_	_	_	_	3	det	_	_
+3	pyrthei	_	_	_	_	6	nsubj	_	_
+4	ka	_	_	_	_	3	aux	_	_
+5	la	_	_	_	_	6	aux	_	_
+6	long	_	_	_	_	0	root	_	_
+7	bakhlem	_	_	_	_	8	amod	_	_
+8	dur	_	_	_	_	6	obj	_	_
+9	bad	_	_	_	_	10	cc	_	_
+10	kaba suda	_	_	_	_	6	obj	_	_
+11	,	_	_	_	_	6	punct	_	_
+12	bad	_	_	_	_	17	cc	_	_
+13	ka	_	_	_	_	14	det	_	_
+14	jingdum	_	_	_	_	17	nsubj	_	_
+15	ka	_	_	_	_	14	aux	_	_
+16	la	_	_	_	_	17	aux	_	_
+17	long	_	_	_	_	6	conj	_	_
+18	halor	_	_	_	_	20	case	_	_
+19	ka	_	_	_	_	20	det	_	_
+20	khmat	_	_	_	_	17	obj	_	_
+21	ka	_	_	_	_	22	det	_	_
+22	jingjylliew	_	_	_	_	20	nmod	_	_
+23	,	_	_	_	_	6	punct	_	_
+24	bad	_	_	_	_	31	cc	_	_
+25	U	_	_	_	_	26	det	_	_
+26	Mynsiem	_	_	_	_	31	nsubj	_	_
+27	U	_	_	_	_	28	det	_	_
+28	Blei	_	_	_	_	26	nmod	_	_
+29	u	_	_	_	_	26	aux	_	_
+30	da	_	_	_	_	31	aux	_	_
+31	khih	_	_	_	_	6	conj	_	_
+32	halor	_	_	_	_	34	case	_	_
+33	ki	_	_	_	_	34	det	_	_
+34	um	_	_	_	_	31	obl	_	_
+35	.	_	_	_	_	6	punct	_	_
+
+# sent_id = prefix:3:101
+# text = Bad U Blei u la ong, To long ka jingshai, bad ka jingshai ka la long.
+1	Bad	_	_	_	_	6	cc	_	_
+2	U	_	_	_	_	3	det	_	_
+3	Blei	_	_	_	_	6	nsubj	_	_
+4	u	_	_	_	_	3	aux	_	_
+5	la	_	_	_	_	6	aux	_	_
+6	ong	_	_	_	_	0	root	_	_
+7	,	_	_	_	_	6	punct	_	_
+8	To	_	_	_	_	9	aux	_	_
+9	long	_	_	_	_	6	conj	_	_
+10	ka	_	_	_	_	11	det	_	_
+11	jingshai	_	_	_	_	9	nsubj	_	_
+12	,	_	_	_	_	18	punct	_	_
+13	bad	_	_	_	_	18	cc	_	_
+14	ka	_	_	_	_	15	det	_	_
+15	jingshai	_	_	_	_	18	nsubj	_	_
+16	ka	_	_	_	_	15	aux	_	_
+17	la	_	_	_	_	18	aux	_	_
+18	long	_	_	_	_	6	conj	_	_
+19	.	_	_	_	_	6	punct	_	_
+
+# sent_id = prefix:4:140
+# text = Bad U Blei u la iohi ia kata ka jingshai, ba ka la long kaba bha; bad U Blei u la pyniakhlad ia kata ka jingshai na kata ka jingdum.
+1	Bad	_	_	_	_	6	cc	_	_
+2	U	_	_	_	_	3	det	_	_
+3	Blei	_	_	_	_	6	nsubj	_	_
+4	u	_	_	_	_	3	aux	_	_
+5	la	_	_	_	_	6	aux	_	_
+6	iohi	_	_	_	_	0	root	_	_
+7	ia	_	_	_	_	10	case	_	_
+8	kata	_	_	_	_	10	det	_	_
+9	ka	_	_	_	_	10	det	_	_
+10	jingshai	_	_	_	_	6	obj	_	_
+11	,	_	_	_	_	15	punct	_	_
+12	ba	_	_	_	_	15	det	_	_
+13	ka	_	_	_	_	12	aux	_	_
+14	la	_	_	_	_	15	aux	_	_
+15	long	_	_	_	_	6	conj	_	_
+16	kaba bha	_	_	_	_	15	obj	_	_
+17	;	_	_	_	_	6	punct	_	_
+18	bad	_	_	_	_	23	cc	_	_
+19	U	_	_	_	_	20	det	_	_
+20	Blei	_	_	_	_	23	subj	_	_
+21	u	_	_	_	_	20	aux	_	_
+22	la	_	_	_	_	23	aux	_	_
+23	pyniakhlad	_	_	_	_	6	conj	_	_
+24	ia	_	_	_	_	27	case	_	_
+25	kata	_	_	_	_	27	det	_	_
+26	ka	_	_	_	_	27	det	_	_
+27	jingshai	_	_	_	_	23	obj	_	_
+28	na	_	_	_	_	31	case	_	_
+29	kata	_	_	_	_	31	det	_	_
+30	ka	_	_	_	_	31	det	_	_
+31	jingdum	_	_	_	_	23	obj	_	_
+32	.	_	_	_	_	6	punct	_	_
+
+# sent_id = prefix:5:205
+# text = Te U Blei u la khot Ka Sngi ia kata ka jingshai, bad ia kata ka jingdum u la khot Ka Miet.
+1	Te	_	_	_	_	6	obl	_	_
+2	U	_	_	_	_	3	det	_	_
+3	Blei	_	_	_	_	6	nsubj	_	_
+4	u	_	_	_	_	3	aux	_	_
+5	la	_	_	_	_	6	aux	_	_
+6	khot	_	_	_	_	0	root	_	_
+7	Ka	_	_	_	_	8	det	_	_
+8	Sngi	_	_	_	_	6	obj	_	_
+9	ia	_	_	_	_	12	case	_	_
+10	kata	_	_	_	_	12	det	_	_
+11	ka	_	_	_	_	12	det	_	_
+12	jingshai	_	_	_	_	6	obj	_	_
+13	,	_	_	_	_	6	punct	_	_
+14	bad	_	_	_	_	21	cc	_	_
+15	ia	_	_	_	_	18	case	_	_
+16	kata	_	_	_	_	18	det	_	_
+17	ka	_	_	_	_	18	det	_	_
+18	jingdum	_	_	_	_	21	obj	_	_
+19	u	_	_	_	_	18	nsubj	_	_
+20	la	_	_	_	_	21	aux	_	_
+21	khot	_	_	_	_	6	conj	_	_
+22	Ka	_	_	_	_	24	det	_	_
+23	Miet	_	_	_	_	21	obj	_	_
+24	.	_	_	_	_	6	punct	_	_
+
+# sent_id = prefix:6:254
+# text = Bad kaba lajan miet ka la long bad ka step ruh ka la long, kawei ka sngi.
+1	Bad	_	_	_	_	6	cc	_	_
+2	kaba lajan	_	_	_	_	3	aux	_	_
+3	miet	_	_	_	_	6	nsubj	_	_
+4	ka	_	_	_	_	3	aux	_	_
+5	la	_	_	_	_	6	aux	_	_
+6	long	_	_	_	_	0	root	_	_
+7	bad	_	_	_	_	13	cc	_	_
+8	ka	_	_	_	_	9	det	_	_
+9	step	_	_	_	_	13	nsubj	_	_
+10	ruh	_	_	_	_	13	advmod	_	_
+11	ka	_	_	_	_	9	aux	_	_
+12	la	_	_	_	_	13	aux	_	_
+13	long	_	_	_	_	6	conj	_	_
+14	,	_	_	_	_	13	punct	_	_
+15	kawei	_	_	_	_	17	amod	_	_
+16	ka	_	_	_	_	17	det	_	_
+17	sngi	_	_	_	_	13	X	_	_
+18	.	_	_	_	_	6	punct	_	_
+
+# sent_id = prefix:7:291
+# text = Te U Blei u la ong.
+1	Te	_	_	_	_	6	obl	_	_
+2	U	_	_	_	_	3	det	_	_
+3	Blei	_	_	_	_	6	nsubj	_	_
+4	u	_	_	_	_	3	aux	_	_
+5	la	_	_	_	_	6	aux	_	_
+6	ong	_	_	_	_	0	root	_	_
+7	.	_	_	_	_	6	punct	_	_
+
+# sent_id = prefix:8:306
+# text = To long ka suiñ bneng hapdeng kita ki um, bad to ai ba kan pynkhlad ia ki um na ki um.
+1	To	_	_	_	_	2	aux	_	_
+2	long	_	_	_	_	0	root	_	_
+3	ka	_	_	_	_	4	det	_	_
+4	suiñ bneng	_	_	_	_	2	nsubj	_	_
+5	hapdeng	_	_	_	_	8	case	_	_
+6	kita	_	_	_	_	8	det	_	_
+7	ki	_	_	_	_	8	det	_	_
+8	um	_	_	_	_	2	obj	_	_
+9	,	_	_	_	_	2	punct	_	_
+10	bad	_	_	_	_	15	cc	_	_
+11	to	_	_	_	_	12	aux	_	_
+12	ai	_	_	_	_	2	conj	_	_
+13	ba	_	_	_	_	3	det	_	_
+14	kan	_	_	_	_	15	aux	_	_
+15	pynkhlad	_	_	_	_	2	conj	_	_
+16	ia	_	_	_	_	18	case	_	_
+17	ki	_	_	_	_	18	det	_	_
+18	um	_	_	_	_	15	obj	_	_
+19	na	_	_	_	_	21	case	_	_
+20	ki	_	_	_	_	21	det	_	_
+21	um	_	_	_	_	15	X	_	_
+22	.	_	_	_	_	2	punct	_	_
+
+# sent_id = prefix:9:351
+# text = Bad U Blei u la pynlong ia ka suiñ bneng, bad u la pynkhlad ia kita ki um kiba hapoh kata ka suiñ bneng na kita ki um kiba halor kata ka suiñ bneng; te ka long kumta keiñ.
+1	Bad	_	_	_	_	6	cc	_	_
+2	U	_	_	_	_	3	det	_	_
+3	Blei	_	_	_	_	6	nsubj	_	_
+4	u	_	_	_	_	3	aux	_	_
+5	la	_	_	_	_	6	aux	_	_
+6	pynlong	_	_	_	_	0	root	_	_
+7	ia	_	_	_	_	9	case	_	_
+8	ka	_	_	_	_	9	det	_	_
+9	suiñ bneng	_	_	_	_	6	obj	_	_
+10	,	_	_	_	_	6	punct	_	_
+11	bad	_	_	_	_	14	cc	_	_
+12	u	_	_	_	_	14	nsubj	_	_
+13	la	_	_	_	_	14	aux	_	_
+14	pynkhlad	_	_	_	_	6	conj	_	_
+15	ia	_	_	_	_	18	case	_	_
+16	kita	_	_	_	_	18	det	_	_
+17	ki	_	_	_	_	18	det	_	_
+18	um	_	_	_	_	14	obj	_	_
+19	kiba	_	_	_	_	20	det	_	_
+20	hapoh	_	_	_	_	23	case	_	_
+21	kata	_	_	_	_	23	det	_	_
+22	ka	_	_	_	_	23	det	_	_
+23	suiñ bneng	_	_	_	_	14	obl	_	_
+24	na	_	_	_	_	27	case	_	_
+25	kita	_	_	_	_	27	det	_	_
+26	ki	_	_	_	_	27	det	_	_
+27	um	_	_	_	_	14	obj	_	_
+28	kiba	_	_	_	_	29	det	_	_
+29	halor	_	_	_	_	32	case	_	_
+30	kata	_	_	_	_	32	det	_	_
+31	ka	_	_	_	_	32	det	_	_
+32	suiñ bneng	_	_	_	_	14	obl	_	_
+33	;	_	_	_	_	6	punct	_	_
+34	te	_	_	_	_	36	obl	_	_
+35	ka	_	_	_	_	36	nsubj	_	_
+36	long	_	_	_	_	6	conj	_	_
+37	kumta	_	_	_	_	38	advmod	_	_
+38	keiñ	_	_	_	_	36	aux	_	_
+39	.	_	_	_	_	6	punct	_	_
+
+# sent_id = prefix:10:430
+# text = Bad ia kata ka suiñ bneng, U Blei u la khot Ka Bneng.
+1	Bad	_	_	_	_	11	cc	_	_
+2	ia	_	_	_	_	5	case	_	_
+3	kata	_	_	_	_	5	det	_	_
+4	ka	_	_	_	_	5	det	_	_
+5	suiñ bneng	_	_	_	_	11	obj	_	_
+6	,	_	_	_	_	11	punct	_	_
+7	U	_	_	_	_	8	det	_	_
+8	Blei	_	_	_	_	11	nsubj	_	_
+9	u	_	_	_	_	8	aux	_	_
+10	la	_	_	_	_	11	aux	_	_
+11	khot	_	_	_	_	0	root	_	_
+12	Ka	_	_	_	_	13	det	_	_
+13	Bneng	_	_	_	_	11	obj	_	_
+14	.	_	_	_	_	11	punct	_	_
+
+# sent_id = prefix:11:459
+# text = Bad kaba lajan miet ka la long, bad ka step ka la long, ka sngi kaba ar.
+1	Bad	_	_	_	_	6	cc	_	_
+2	kaba lajan	_	_	_	_	6	aux	_	_
+3	miet	_	_	_	_	6	nsubj	_	_
+4	ka	_	_	_	_	3	aux	_	_
+5	la	_	_	_	_	6	aux	_	_
+6	long	_	_	_	_	0	root	_	_
+7	,	_	_	_	_	6	punct	_	_
+8	bad	_	_	_	_	13	cc	_	_
+9	ka	_	_	_	_	10	det	_	_
+10	step	_	_	_	_	13	nsubj	_	_
+11	ka	_	_	_	_	10	aux	_	_
+12	la	_	_	_	_	13	aux	_	_
+13	long	_	_	_	_	6	conj	_	_
+14	,	_	_	_	_	13	punct	_	_
+15	ka	_	_	_	_	16	det	_	_
+16	sngi	_	_	_	_	13	nsubj	_	_
+17	kaba ar	_	_	_	_	16	nummod	_	_
+18-19	.	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	6	punct	_	_
+19	_	_	_	_	_	6	punct	_	_
+
+

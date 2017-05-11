@@ -1,0 +1,279 @@
+# sent_id = prefix:1:0
+# text = Ha kaba mynnyngkong U Blei u la thaw ia ka bneng bad ia ka khyndew.
+1	Ha	ha	_	pr	_	2	case	_	_
+2	kaba mynnyngkong	mynnyngkong	_	adj	nmz	7	obl	_	_
+3	U	U	_	art	m|sg	4	det	_	_
+4	Blei	blei	_	n	m	7	nsubj	_	_
+5	u	u	_	prn	pers|p3|sg|m	4	aux	_	_
+6	la	la	_	past	_	7	aux	_	_
+7	thaw	thaw	_	vblex	tv	0	root	_	_
+8	ia	ia	_	dirObj	_	10	case	_	_
+9	ka	ka	_	art	f|sg	10	det	_	_
+10	bneng	bneng	_	n	f	7	obj	_	_
+11	bad	bad	_	coocnj	_	14	cc	_	_
+12	ia	ia	_	dirObj	_	14	case	_	_
+13	ka	ka	_	art	f|sg	14	det	_	_
+14	khyndew	khyndew	_	n	f	7	obj	_	_
+15	.	.	_	sent	_	7	punct	_	_
+
+# sent_id = prefix:2:30
+# text = Bad ka pyrthei ka la long bakhlem dur bad kaba suda, bad ka jingdum ka la long halor ka khmat ka jingjylliew, bad U Mynsiem U Blei u da khih halor ki um.
+1	Bad	bad	_	coocnj	_	6	cc	_	_
+2	ka	ka	_	art	f|sg	3	det	_	_
+3	pyrthei	pyrthei	_	n	GD	6	nsubj	_	_
+4	ka	ka	_	prn	pers|p3|sg|f	3	aux	_	_
+5	la	la	_	past	_	6	aux	_	_
+6	long	long	_	vbser	_	0	root	_	_
+7	bakhlem	khlem	_	pr	adjize	8	amod	_	_
+8	dur	dur	_	n	f	6	obj	_	_
+9	bad	bad	_	coocnj	_	10	cc	_	_
+10	kaba suda	suda	_	vblex	pass|tv|nmz	6	obj	_	_
+11	,	,	_	cm	_	6	punct	_	_
+12	bad	bad	_	coocnj	_	17	cc	_	_
+13	ka	ka	_	art	f|sg	14	det	_	_
+14	jingdum	jingdum	_	n	f	17	nsubj	_	_
+15	ka	ka	_	prn	pers|p3|sg|f	14	aux	_	_
+16	la	la	_	past	_	17	aux	_	_
+17	long	long	_	vbser	_	6	conj	_	_
+18	halor	halor	_	pr	_	20	case	_	_
+19	ka	ka	_	art	f|sg	20	det	_	_
+20	khmat	khmat	_	n	f	17	obj	_	_
+21	ka	ka	_	art	f|sg	22	det	_	_
+22	jingjylliew	jingjylliew	_	n	f	20	nmod	_	_
+23	,	,	_	cm	_	6	punct	_	_
+24	bad	bad	_	coocnj	_	31	cc	_	_
+25	U	U	_	art	m|sg	26	det	_	_
+26	Mynsiem	mynsiem	_	n	m	31	nsubj	_	_
+27	U	U	_	art	m|sg	28	det	_	_
+28	Blei	blei	_	n	m	26	nmod	_	_
+29	u	u	_	prn	pers|p3|sg|m	26	aux	_	_
+30	da	da	_	cont	_	31	aux	_	_
+31	khih	khih	_	vblex	tv	6	conj	_	_
+32	halor	halor	_	pr	_	34	case	_	_
+33	ki	ki	_	art	GD|pl	34	det	_	_
+34	um	um	_	n	f	31	obl	_	_
+35	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = prefix:3:101
+# text = Bad U Blei u la ong, To long ka jingshai, bad ka jingshai ka la long.
+1	Bad	bad	_	coocnj	_	6	cc	_	_
+2	U	U	_	art	m|sg	3	det	_	_
+3	Blei	blei	_	n	m	6	nsubj	_	_
+4	u	u	_	prn	pers|p3|sg|m	3	aux	_	_
+5	la	la	_	past	_	6	aux	_	_
+6	ong	ong	_	vblex	tv	0	root	_	_
+7	,	,	_	cm	_	6	punct	_	_
+8	To	to	_	imp	_	9	aux	_	_
+9	long	long	_	vbser	_	6	conj	_	_
+10	ka	ka	_	art	f|sg	11	det	_	_
+11	jingshai	jingshai	_	n	f	9	nsubj	_	_
+12	,	,	_	cm	_	18	punct	_	_
+13	bad	bad	_	coocnj	_	18	cc	_	_
+14	ka	ka	_	art	f|sg	15	det	_	_
+15	jingshai	jingshai	_	n	f	18	nsubj	_	_
+16	ka	ka	_	prn	pers|p3|sg|f	15	aux	_	_
+17	la	la	_	past	_	18	aux	_	_
+18	long	long	_	vbser	_	6	conj	_	_
+19	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = prefix:4:140
+# text = Bad U Blei u la iohi ia kata ka jingshai, ba ka la long kaba bha; bad U Blei u la pyniakhlad ia kata ka jingshai na kata ka jingdum.
+1	Bad	bad	_	coocnj	_	6	cc	_	_
+2	U	U	_	art	m|sg	3	det	_	_
+3	Blei	blei	_	n	m	6	nsubj	_	_
+4	u	u	_	prn	pers|p3|sg|m	3	aux	_	_
+5	la	la	_	past	_	6	aux	_	_
+6	iohi	iohi	_	vblex	tv	0	root	_	_
+7	ia	ia	_	dirObj	_	10	case	_	_
+8	kata	kata	_	f	sg|dem|dist|osfar	10	det	_	_
+9	ka	ka	_	art	f|sg	10	det	_	_
+10	jingshai	jingshai	_	n	f	6	obj	_	_
+11	,	,	_	cm	_	15	punct	_	_
+12	ba	ba	_	conj	_	15	det	_	_
+13	ka	ka	_	prn	pers|p3|sg|f	12	aux	_	_
+14	la	la	_	past	_	15	aux	_	_
+15	long	long	_	vbser	_	6	conj	_	_
+16	kaba bha	bha	_	adv	nmz	15	obj	_	_
+17	;	;	_	sent	_	6	punct	_	_
+18	bad	bad	_	coocnj	_	23	cc	_	_
+19	U	U	_	art	m|sg	20	det	_	_
+20	Blei	blei	_	n	m	23	subj	_	_
+21	u	u	_	prn	pers|p3|sg|m	20	aux	_	_
+22	la	la	_	past	_	23	aux	_	_
+23	pyniakhlad	pyniakhlad	_	vblex	tv	6	conj	_	_
+24	ia	ia	_	dirObj	_	27	case	_	_
+25	kata	kata	_	f	sg|dem|dist|osfar	27	det	_	_
+26	ka	ka	_	art	f|sg	27	det	_	_
+27	jingshai	jingshai	_	n	f	23	obj	_	_
+28	na	na	_	pr	_	31	case	_	_
+29	kata	kata	_	f	sg|dem|dist|osfar	31	det	_	_
+30	ka	ka	_	art	f|sg	31	det	_	_
+31	jingdum	jingdum	_	n	f	23	obj	_	_
+32	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = prefix:5:205
+# text = Te U Blei u la khot Ka Sngi ia kata ka jingshai, bad ia kata ka jingdum u la khot Ka Miet.
+1	Te	te	_	adv	_	6	obl	_	_
+2	U	U	_	art	m|sg	3	det	_	_
+3	Blei	blei	_	n	m	6	nsubj	_	_
+4	u	u	_	prn	pers|p3|sg|m	3	aux	_	_
+5	la	la	_	past	_	6	aux	_	_
+6	khot	khot	_	vblex	tv	0	root	_	_
+7	Ka	Ka	_	art	f|sg	8	det	_	_
+8	Sngi	sngi	_	n	f	6	obj	_	_
+9	ia	ia	_	dirObj	_	12	case	_	_
+10	kata	kata	_	f	sg|dem|dist|osfar	12	det	_	_
+11	ka	ka	_	art	f|sg	12	det	_	_
+12	jingshai	jingshai	_	n	f	6	obj	_	_
+13	,	,	_	cm	_	6	punct	_	_
+14	bad	bad	_	coocnj	_	21	cc	_	_
+15	ia	ia	_	dirObj	_	18	case	_	_
+16	kata	kata	_	f	sg|dem|dist|osfar	18	det	_	_
+17	ka	ka	_	art	f|sg	18	det	_	_
+18	jingdum	jingdum	_	n	f	21	obj	_	_
+19	u	u	_	prn	pers|p3|sg|m	18	nsubj	_	_
+20	la	la	_	past	_	21	aux	_	_
+21	khot	khot	_	vblex	tv	6	conj	_	_
+22	Ka	ka	_	art	f|sg	24	det	_	_
+23	Miet	miet	_	n	f	21	obj	_	_
+24	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = prefix:6:254
+# text = Bad kaba lajan miet ka la long bad ka step ruh ka la long, kawei ka sngi.
+1	Bad	bad	_	coocnj	_	6	cc	_	_
+2	kaba lajan	lajan	_	adv	nmz	3	aux	_	_
+3	miet	miet	_	n	f	6	nsubj	_	_
+4	ka	ka	_	prn	pers|p3|sg|f	3	aux	_	_
+5	la	la	_	past	_	6	aux	_	_
+6	long	long	_	vbser	_	0	root	_	_
+7	bad	bad	_	coocnj	_	13	cc	_	_
+8	ka	ka	_	art	f|sg	9	det	_	_
+9	step	step	_	n	f	13	nsubj	_	_
+10	ruh	ruh	_	adv	_	13	advmod	_	_
+11	ka	ka	_	prn	pers|p3|sg|f	9	aux	_	_
+12	la	la	_	past	_	13	aux	_	_
+13	long	long	_	vbser	_	6	conj	_	_
+14	,	,	_	cm	_	13	punct	_	_
+15	kawei	kawei	_	adj	_	17	amod	_	_
+16	ka	ka	_	art	f|sg	17	det	_	_
+17	sngi	sngi	_	n	f	13	X	_	_
+18	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = prefix:7:291
+# text = Te U Blei u la ong.
+1	Te	te	_	adv	_	6	obl	_	_
+2	U	U	_	art	m|sg	3	det	_	_
+3	Blei	blei	_	n	m	6	nsubj	_	_
+4	u	u	_	prn	pers|p3|sg|m	3	aux	_	_
+5	la	la	_	past	_	6	aux	_	_
+6	ong	ong	_	vblex	tv	0	root	_	_
+7	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = prefix:8:306
+# text = To long ka suiñ bneng hapdeng kita ki um, bad to ai ba kan pynkhlad ia ki um na ki um.
+1	To	to	_	imp	_	2	aux	_	_
+2	long	long	_	vbser	_	0	root	_	_
+3	ka	ka	_	art	f|sg	4	det	_	_
+4	suiñ bneng	bneng	_	n	f	2	nsubj	_	_
+5	hapdeng	hapdeng	_	pr	_	8	case	_	_
+6	kita	kita	_	GD	pl|dem|dist|osfar	8	det	_	_
+7	ki	ki	_	art	GD|pl	8	det	_	_
+8	um	um	_	n	f	2	obj	_	_
+9	,	,	_	cm	_	2	punct	_	_
+10	bad	bad	_	coocnj	_	15	cc	_	_
+11	to	to	_	imp	_	12	aux	_	_
+12	ai	ai	_	vblex	tv	2	conj	_	_
+13	ba	ba	_	conj	_	3	det	_	_
+14	kan	kan	_	phr	_	15	aux	_	_
+15	pynkhlad	pynkhlad	_	vblex	tv	2	conj	_	_
+16	ia	ia	_	dirObj	_	18	case	_	_
+17	ki	ki	_	art	GD|pl	18	det	_	_
+18	um	um	_	n	f	15	obj	_	_
+19	na	na	_	pr	_	21	case	_	_
+20	ki	ki	_	art	GD|pl	21	det	_	_
+21	um	um	_	n	f	15	X	_	_
+22	.	.	_	sent	_	2	punct	_	_
+
+# sent_id = prefix:9:351
+# text = Bad U Blei u la pynlong ia ka suiñ bneng, bad u la pynkhlad ia kita ki um kiba hapoh kata ka suiñ bneng na kita ki um kiba halor kata ka suiñ bneng; te ka long kumta keiñ.
+1	Bad	bad	_	coocnj	_	6	cc	_	_
+2	U	ki	_	art	m|sg	3	det	_	_
+3	Blei	blei	_	n	m	6	nsubj	_	_
+4	u	u	_	prn	pers|p3|sg|m	3	aux	_	_
+5	la	la	_	past	_	6	aux	_	_
+6	pynlong	pynlong	_	vbser	_	0	root	_	_
+7	ia	ia	_	dirObj	_	9	case	_	_
+8	ka	ka	_	art	f|sg	9	det	_	_
+9	suiñ bneng	bneng	_	n	f	6	obj	_	_
+10	,	,	_	cm	_	6	punct	_	_
+11	bad	bad	_	coocnj	_	14	cc	_	_
+12	u	u	_	prn	pers|p3|sg|m	14	nsubj	_	_
+13	la	la	_	past	_	14	aux	_	_
+14	pynkhlad	pynkhlad	_	vblex	tv	6	conj	_	_
+15	ia	ia	_	dirObj	_	18	case	_	_
+16	kita	kita	_	GD	pl|dem|dist|osfar	18	det	_	_
+17	ki	ki	_	art	GD|pl	18	det	_	_
+18	um	um	_	n	f	14	obj	_	_
+19	kiba	kiba	_	prn	rel|pl	20	det	_	_
+20	hapoh	hapoh	_	pr	_	23	case	_	_
+21	kata	kata	_	f	sg|dem|dist|osfar	23	det	_	_
+22	ka	ka	_	art	f|sg	23	det	_	_
+23	suiñ bneng	bneng	_	n	f	14	obl	_	_
+24	na	na	_	pr	_	27	case	_	_
+25	kita	kita	_	GD	pl|dem|dist|osfar	27	det	_	_
+26	ki	ki	_	art	GD|pl	27	det	_	_
+27	um	um	_	n	f	14	obj	_	_
+28	kiba	kiba	_	prn	rel|pl	29	det	_	_
+29	halor	halor	_	pr	_	32	case	_	_
+30	kata	kata	_	f	sg|dem|dist|osfar	32	det	_	_
+31	ka	ka	_	art	f|sg	32	det	_	_
+32	suiñ bneng	bneng	_	n	f	14	obl	_	_
+33	;	;	_	sent	_	6	punct	_	_
+34	te	te	_	adv	_	36	obl	_	_
+35	ka	ka	_	prn	pers|p3|sg|f	36	nsubj	_	_
+36	long	long	_	vbser	_	6	conj	_	_
+37	kumta	kumta	_	adv	_	38	advmod	_	_
+38	keiñ	keiñ	_	vblex	iv	36	aux	_	_
+39	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = prefix:10:430
+# text = Bad ia kata ka suiñ bneng, U Blei u la khot Ka Bneng.
+1	Bad	bad	_	coocnj	_	11	cc	_	_
+2	ia	ia	_	dirObj	_	5	case	_	_
+3	kata	kata	_	f	sg|dem|dist|osfar	5	det	_	_
+4	ka	ka	_	art	f|sg	5	det	_	_
+5	suiñ bneng	bneng	_	n	f	11	obj	_	_
+6	,	,	_	cm	_	11	punct	_	_
+7	U	U	_	art	m|sg	8	det	_	_
+8	Blei	blei	_	n	m	11	nsubj	_	_
+9	u	u	_	prn	pers|p3|sg|m	8	aux	_	_
+10	la	la	_	past	_	11	aux	_	_
+11	khot	khot	_	vblex	tv	0	root	_	_
+12	Ka	ka	_	art	f|sg	13	det	_	_
+13	Bneng	bneng	_	n	f	11	obj	_	_
+14	.	.	_	sent	_	11	punct	_	_
+
+# sent_id = prefix:11:459
+# text = Bad kaba lajan miet ka la long, bad ka step ka la long, ka sngi kaba ar.
+1	Bad	bad	_	coocnj	_	6	cc	_	_
+2	kaba lajan	lajan	_	adv	nmz	6	aux	_	_
+3	miet	miet	_	n	f	6	nsubj	_	_
+4	ka	ka	_	prn	pers|p3|sg|f	3	aux	_	_
+5	la	la	_	past	_	6	aux	_	_
+6	long	long	_	vbser	_	0	root	_	_
+7	,	,	_	cm	_	6	punct	_	_
+8	bad	bad	_	coocnj	_	13	cc	_	_
+9	ka	ka	_	art	f|sg	10	det	_	_
+10	step	step	_	n	f	13	nsubj	_	_
+11	ka	ka	_	prn	pers|p3|sg|f	10	aux	_	_
+12	la	la	_	past	_	13	aux	_	_
+13	long	long	_	vbser	_	6	conj	_	_
+14	,	,	_	cm	_	13	punct	_	_
+15	ka	ka	_	art	f|sg	16	det	_	_
+16	sngi	sngi	_	n	f	13	nsubj	_	_
+17	kaba ar	ar	_	adj	nmz	16	nummod	_	_
+18-19	.	_	_	_	_	_	_	_	_
+18	.	.	_	sent	_	6	punct	_	_
+19	_	.	_	sent	_	6	punct	_	_
+
+
